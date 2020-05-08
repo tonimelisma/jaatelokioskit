@@ -10,7 +10,7 @@ const App = () => {
       <MapView style={styles.mapStyle}>
         {kioskit.map((marker) => (
           <Marker
-            key={marker.key}
+            key={marker.id}
             title={marker.title}
             description={marker.description}
             coordinate={{
