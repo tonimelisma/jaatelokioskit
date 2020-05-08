@@ -1,0 +1,1 @@
+Tsekkaa H:gin jäätelötehdas kompassitorin sijainti

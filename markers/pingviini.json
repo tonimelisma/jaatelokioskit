@@ -1,0 +1,2012 @@
+[
+  {
+    "id": 6855,
+    "title": "Casa Emanuele",
+    "latitude": "60.098642",
+    "longitude": "19.9387614",
+    "details": "<p>Norragatan 9<br />\n22100 Mariehamn</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6852,
+    "title": "Crestum Ab",
+    "latitude": "60.0995946",
+    "longitude": "19.9420839",
+    "details": "<p>Torggatan 7<br />\n22100 Mariehamn</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6857,
+    "title": "Finnappetite",
+    "latitude": "61.4669548",
+    "longitude": "23.7192984",
+    "details": "<p>Saapastie 2<br />\n33950 Pirkkala</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6860,
+    "title": "Greenwitch Oy",
+    "latitude": "65.1770177",
+    "longitude": "25.3515676",
+    "details": "<p>Haukiputaan Tori, Kirkkotie 1<br />\n90830 Haukipudas</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6850,
+    "title": "Icester",
+    "latitude": "60.2980461",
+    "longitude": "25.33297",
+    "details": "<p>Amiraalintie 2<br />\n01150 S\u00f6derkulla</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6847,
+    "title": "Jookri Oy",
+    "latitude": "60.2601432",
+    "longitude": "24.8534583",
+    "details": "<p>Iskosjuka 3, Myyrm\u00e4en Paalutori<br />\n01600 Vantaa</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6856,
+    "title": "Kingiskaani Oy",
+    "latitude": "61.8642014",
+    "longitude": "28.8978286",
+    "details": "<p>Tallisaari<br />\n57200 Savonlinna</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6864,
+    "title": "Kiusaniemi Oy",
+    "latitude": "61.3608591",
+    "longitude": "25.2920988",
+    "details": "<p>Laivarannantie 41<br />\n17500 Padasjoki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6859,
+    "title": "Kotihoito Pia Viitala Oy",
+    "latitude": "65.007188",
+    "longitude": "25.5887356",
+    "details": "<p>Hiukkavaara Monitoimitalon aukio<br />\n90650 Oulu</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6861,
+    "title": "My\u00f6t\u00e4j\u00e4isten Kotileipomo",
+    "latitude": "60.9833686",
+    "longitude": "25.6550405",
+    "details": "<p>Marolankatu 3<br />\n15110 Lahti</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6862,
+    "title": "Pitko Cafe &#038; Shop",
+    "latitude": "60.5693374",
+    "longitude": "27.1878317",
+    "details": "<p>Rampsinkaari<br />\n49400 Hamina</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6858,
+    "title": "Puuharyhm\u00e4 Oyj",
+    "latitude": "60.8068404",
+    "longitude": "24.6122532",
+    "details": "<p>V\u00e4hikk\u00e4l\u00e4ntie 11<br />\n12400 Tervakoski</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6849,
+    "title": "Riipinen Restaurants Oy",
+    "latitude": "66.1674511",
+    "longitude": "29.1399918",
+    "details": "<p>Rukan K\u00e4velykyl\u00e4<br />\n93830 Rukatunturi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6853,
+    "title": "Selecta Mariehamn Ab",
+    "latitude": "60.1027118",
+    "longitude": "19.9441496",
+    "details": "<p>Servivegatan 2<br />\n22100 Mariehamn</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6854,
+    "title": "Systramas glass",
+    "latitude": "60.0966304",
+    "longitude": "19.9330076",
+    "details": "<p>Storagatan 14<br />\n22100 Mariehamn</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6851,
+    "title": "Tmi Ines Koivusara",
+    "latitude": "60.3804702",
+    "longitude": "24.7535171",
+    "details": "<p>Klaukkalan tori. Torikuja 1<br />\n01800 Klaukkala</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6848,
+    "title": "Villa Korkatti",
+    "latitude": "64.1329618",
+    "longitude": "25.3602126",
+    "details": "<p>Nivalantie 61<br />\n86600 Haapavesi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6863,
+    "title": "YP-Bistro Oy",
+    "latitude": "60.1596889",
+    "longitude": "24.7112674",
+    "details": "<p>Rusthollarinkatu 6<br />\n02270 Espoo</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6842,
+    "title": "Tmi Matti J\u00e4ntti",
+    "latitude": "60.1780775",
+    "longitude": "24.8042895",
+    "details": "<p>Kulttuurikeskuksen Aukio <br />02100 Espoo</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6841,
+    "title": "Tmi Mikko Laine",
+    "latitude": "67.4140428",
+    "longitude": "26.5879003",
+    "details": "<p>Haastajantie 1 <br />99600 Sodankyl\u00e4</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6840,
+    "title": "Tmi Mikko Luukkala",
+    "latitude": "60.8159978",
+    "longitude": "23.6289802",
+    "details": "<p>Torikatu <br />30100 Forssa</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6836,
+    "title": "Tmi Pekka Vainio",
+    "latitude": "61.4919134",
+    "longitude": "21.7857041",
+    "details": "<p>Kapellimestarinkatu (kirjurinluoto) <br />28100 Pori</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6837,
+    "title": "Tmi Suvi Kuisma",
+    "latitude": "60.6471989",
+    "longitude": "25.3053851",
+    "details": "<p>Asemakatu 2 <br />04620 M\u00e4nts\u00e4l\u00e4</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6839,
+    "title": "Tmi Utkuputkunmaa",
+    "latitude": "60.6929372",
+    "longitude": "26.8386764",
+    "details": "<p>Valtatie 1 <br />46900 Inkeroinen</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6650,
+    "title": "Tmi Viljami Sainio",
+    "latitude": "60.6792464",
+    "longitude": "21.9855293",
+    "details": "<p>Virastotie 4 <br />23100 Myn\u00e4m\u00e4ki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6834,
+    "title": "Tmi: anton auttaa",
+    "latitude": "62.5940174",
+    "longitude": "29.7526248",
+    "details": "<p>Rantakatu (Kirkkopuisto) <br />80100 Joensuu</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6833,
+    "title": "Tomi Kopaly T:mi",
+    "latitude": "63.8364432",
+    "longitude": "23.1331756",
+    "details": "<p>Rantakatu kulma <br />67100 Kokkola</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6838,
+    "title": "Trade Cycle Finland Oy",
+    "latitude": "60.1979094",
+    "longitude": "24.8666016",
+    "details": "<p>Munkkiniemenranta <br />00300 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6827,
+    "title": "Tuutti Productions",
+    "latitude": "61.3407779",
+    "longitude": "22.9085496",
+    "details": "<p>Onkiniemenkatu 6 <br />38200 Sastamala</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6830,
+    "title": "Tylli Gunilla Eva Alice",
+    "latitude": "63.838383",
+    "longitude": "23.1296944",
+    "details": "<p>Torikatu <br />67600 Kokkola</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6600,
+    "title": "Valkeakosken Retkeilij\u00e4t Ry",
+    "latitude": "61.2666682",
+    "longitude": "24.0299227",
+    "details": "<p>Koiton Aukio <br />37600 Valkeakoski</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6648,
+    "title": "Valkealan Joona Oy",
+    "latitude": "60.9304151",
+    "longitude": "26.7991413",
+    "details": "<p>Kalevantie 3 <br />45370 Valkeala</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6826,
+    "title": "Vauhtipuisto Oy",
+    "latitude": "65.0306233",
+    "longitude": "25.4113969",
+    "details": "<p>Nallikarin Ranta <br />90500 Oulu</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6619,
+    "title": "Ve-Tu Oy",
+    "latitude": "64.6722801",
+    "longitude": "24.4542472",
+    "details": "<p>Raahen ranta <br />92100 Raahe</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6640,
+    "title": "Vierum\u00e4ki Country Club Oy",
+    "latitude": "61.1087485",
+    "longitude": "26.0083821",
+    "details": "<p>Urheiluopistontie 373 <br />19120 Vierum\u00e4ki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6829,
+    "title": "Voimistelu-Ja Urheiluseura Oulun Tarmo Ry",
+    "latitude": "65.0280311",
+    "longitude": "25.4216444",
+    "details": "<p>Toppilansaarentie 20 <br />90500 Oulu</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6831,
+    "title": "Windyday Oy",
+    "latitude": "60.2261783",
+    "longitude": "24.8036645",
+    "details": "<p>Ver\u00e4j\u00e4pellonkatu 15 <br />02650 Espoo</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6828,
+    "title": "Wisant Ky",
+    "latitude": "60.1624776",
+    "longitude": "24.9140698",
+    "details": "<p>Ruoholahdentori <br />00180 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6832,
+    "title": "Wisant Ky",
+    "latitude": "60.1179681",
+    "longitude": "24.4455026",
+    "details": "<p>Munkinm\u00e4entie 29 <br />02400 Kirkkonummi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6835,
+    "title": "Sirin Herkku",
+    "latitude": "65.0115051",
+    "longitude": "25.4814631",
+    "details": "<p>Hallituskatu 31 <br />90100 Oulu</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6641,
+    "title": "Sirin Kebab ja Pizzeria Avoin yhti\u00f6",
+    "latitude": "61.105189",
+    "longitude": "24.8655675",
+    "details": "<p>Tuulosentie 1 <br />14810 Tuulos</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6823,
+    "title": "S\u00f6derby-Boden Oy Ab",
+    "latitude": "60.2448748",
+    "longitude": "25.9030857",
+    "details": "<p>Sunintie 2 <br />07370 Pellinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6819,
+    "title": "SONIA ATIFI",
+    "latitude": "60.6395155",
+    "longitude": "24.8728785",
+    "details": "<p>H\u00e4meenkatu <br />05800 Hyvink\u00e4\u00e4</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6824,
+    "title": "Sulkavan Wiljami Oy",
+    "latitude": "61.7875528",
+    "longitude": "28.3701927",
+    "details": "<p>Alanteentie 38 <br />58700 Sulkava</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6611,
+    "title": "Suomen Tapahtumakontti Oy",
+    "latitude": "60.1726094",
+    "longitude": "24.9610247",
+    "details": "<p>Pohjoisranta <br />00170 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6821,
+    "title": "Superjymy Oy",
+    "latitude": "64.140143",
+    "longitude": "28.2678151",
+    "details": "<p>Heikintie 1 <br />88610 Vuokatti</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6815,
+    "title": "SV-Palvelut",
+    "latitude": "60.2935366",
+    "longitude": "24.0628313",
+    "details": "<p>Hossanm\u00e4entie 1 <br />08350 Lohja</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6816,
+    "title": "SV-Palvelut",
+    "latitude": "60.2047453",
+    "longitude": "23.1129685",
+    "details": "<p>Haarlantie 10 <br />25500 Perni\u00f6</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6814,
+    "title": "T:mi Maj-Lis Saranne",
+    "latitude": "65.8481897",
+    "longitude": "24.1355754",
+    "details": "<p>L\u00e4nsiranta <br />95400 Tornio</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6534,
+    "title": "T:mi Maj-Lis Saranne",
+    "latitude": "65.8481831",
+    "longitude": "24.1461667",
+    "details": "<p>M\u00f6lj\u00e4 <br />95400 Tornio</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6518,
+    "title": "T:mi Salon J\u00e4\u00e4tel\u00f6tori",
+    "latitude": "60.3849675",
+    "longitude": "23.128904",
+    "details": "<p>Salon tori <br />24100 Salo</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6822,
+    "title": "Taivalkosken 4H-Yhdistys R.Y.",
+    "latitude": "65.5752923",
+    "longitude": "28.2424916",
+    "details": "<p>Kirkkotie 2, Kalle P\u00e4\u00e4talo tori <br />93400 Taivalkoski</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6651,
+    "title": "Tampereen Teatterin Palvelu Oy",
+    "latitude": "61.493562",
+    "longitude": "23.7328853",
+    "details": "<p>Jalkasaarentie 3 <br />33270  Tampere</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6645,
+    "title": "TG Klubben Oy",
+    "latitude": "60.9959134",
+    "longitude": "24.4649039",
+    "details": "<p>Raatihuoneenkatu 17-19 <br />13100 H\u00e4meenlinna</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6817,
+    "title": "Tmi Anna Rantanen",
+    "latitude": "66.5028888",
+    "longitude": "25.7280078",
+    "details": "<p>Koskikatu 21 <br />96200 Rovaniemi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6820,
+    "title": "Tmi Jenna Tervonen",
+    "latitude": "64.1306547",
+    "longitude": "28.3904978",
+    "details": "<p>Sotkamon Tori <br />88600 Sotkamo</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6587,
+    "title": "Tmi Juha Humalajoki",
+    "latitude": "63.0423071",
+    "longitude": "24.5582849",
+    "details": "<p>Vaasantie 2 <br />43700 Kyyj\u00e4rvi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6818,
+    "title": "Tmi Krista Hellgren",
+    "latitude": "60.5338763",
+    "longitude": "24.2111888",
+    "details": "<p>Keskuskatu 3 <br />03600 Karkkila</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6825,
+    "title": "Puuharyhm\u00e4 Oyj",
+    "latitude": "60.3257113",
+    "longitude": "24.740525",
+    "details": "<p>Tornim\u00e4entie 10 <br />02970 Espoo</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6693,
+    "title": "Puuharyhm\u00e4 Oyj",
+    "latitude": "60.3257113",
+    "longitude": "24.740525",
+    "details": "<p>Tornim\u00e4entie 10 <br />02970 Espoo</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6586,
+    "title": "Puurtilan Kisapojat Ry",
+    "latitude": "61.8965934",
+    "longitude": "27.8584292",
+    "details": "<p>Juvantie 12 <br />51900 Juva</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6810,
+    "title": "Puurtilan Kisapojat Ry",
+    "latitude": "62.3177533",
+    "longitude": "27.8675732",
+    "details": "<p>Taulum\u00e4en Tori <br />78200 Varkaus</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6797,
+    "title": "Pyynikin Munkkikahvila Oy",
+    "latitude": "61.493598",
+    "longitude": "23.7400598",
+    "details": "<p>N\u00e4k\u00f6tornintie 20 <br />33230 Tampere</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6813,
+    "title": "R &#038; S Tiimi Oy",
+    "latitude": "60.251176",
+    "longitude": "24.0674709",
+    "details": "<p>Sep\u00e4nkatu <br />8150 Lohja</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6799,
+    "title": "R &#038; S Tiimi Oy",
+    "latitude": "60.3355122",
+    "longitude": "24.3214535",
+    "details": "<p>Vihdintie 3 <br />03100 Nummela</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6800,
+    "title": "R &#038; S Tiimi Oy",
+    "latitude": "60.4165735",
+    "longitude": "24.3256379",
+    "details": "<p>Vihdin Tori <br />34000 Vihti</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6807,
+    "title": "Rakennuspalvelu A. Pasuri",
+    "latitude": "61.6781089",
+    "longitude": "24.3581641",
+    "details": "<p>Keskustie 29 <br />35300 Orivesi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6804,
+    "title": "Rantasalmen 4H Yhdistys Ry",
+    "latitude": "62.0645416",
+    "longitude": "28.3033596",
+    "details": "<p>Kyl\u00e4tie 23 (Rantasalmen tori) <br />58900 Rantasalmi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6809,
+    "title": "Ranuan Seudun Matkailu Oy",
+    "latitude": "65.9446049",
+    "longitude": "26.4651705",
+    "details": "<p>Rovaniementie 29 <br />97700 Ranua</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6643,
+    "title": "Ravintola Bambu Oy",
+    "latitude": "60.920964",
+    "longitude": "24.6504722",
+    "details": "<p>Turengintie 2 <br />14200 Turenki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6805,
+    "title": "Ravintola G\u00f6ran",
+    "latitude": "60.4368017",
+    "longitude": "22.2343123",
+    "details": "<p>Linnankatu 72 <br />20100 Turku</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6811,
+    "title": "Ravintola Laguuni",
+    "latitude": "61.5701404",
+    "longitude": "21.5270972",
+    "details": "<p>Yyterinsantojentie 1 <br />28840 Pori</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6812,
+    "title": "Ravintola Unnukanranta Ky",
+    "latitude": "62.4893113",
+    "longitude": "27.7708498",
+    "details": "<p>Kalmalahdentie 2 <br />79100 Lepp\u00e4virta</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6801,
+    "title": "Rosaleve",
+    "latitude": "61.4972474",
+    "longitude": "23.7610318",
+    "details": "<p>Keskustori <br />33200 Tampere</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6618,
+    "title": "Rosaleve",
+    "latitude": "61.4954516",
+    "longitude": "23.7614682",
+    "details": "<p>Laukontori <br />33200 Tampere</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6808,
+    "title": "Rosaleve",
+    "latitude": "61.4973622",
+    "longitude": "23.7655819",
+    "details": "<p>Hatanp\u00e4\u00e4n Valtatie 1 (Tammerkosken rannassa) <br />33200 Tampere</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6802,
+    "title": "Ruoveden Pirkat R.Y",
+    "latitude": "61.9890522",
+    "longitude": "24.0758048",
+    "details": "<p>Laivaranta <br />34600 Ruovesi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6798,
+    "title": "Salminen Jenni Johanna",
+    "latitude": "61.4184828",
+    "longitude": "26.8790902",
+    "details": "<p>M\u00e4ntyharjun Tori <br />52700 M\u00e4ntyharju</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6803,
+    "title": "Samulin Grilli Ari Viitanen Ky",
+    "latitude": "62.5502478",
+    "longitude": "24.0694098",
+    "details": "<p>\u00c4ht\u00e4rin tori <br />63700 \u00c4ht\u00e4ri</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6668,
+    "title": "Sarinan Tupa Oy",
+    "latitude": "62.2594269",
+    "longitude": "25.74499",
+    "details": "<p>Taulum\u00e4entie 2 <br />17500 Padasjoki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6806,
+    "title": "Sataman Loiste Oy",
+    "latitude": "61.0670651",
+    "longitude": "28.1867633",
+    "details": "<p>Satamatie 9 <br />53900 Lappeenranta</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6787,
+    "title": "Sipulisanni Oy",
+    "latitude": "65.9638423",
+    "longitude": "29.1887117",
+    "details": "<p>Ouluntaival 1 <br />93600 Kuusamo</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6793,
+    "title": "P&#038;M Mikkola ay",
+    "latitude": "63.9742723",
+    "longitude": "25.7598071",
+    "details": "<p>Haapaj\u00e4rventie 1 <br />86710 K\u00e4rs\u00e4m\u00e4ki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6790,
+    "title": "P\u00e4\u00e4skyniemen H\u00f6yl\u00e4\u00e4m\u00f6 Oy",
+    "latitude": "61.4626",
+    "longitude": "24.0730888",
+    "details": "<p>Kangasalan tori <br />36200 Kangasala</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6673,
+    "title": "P\u00e4ivi Hopeasaari",
+    "latitude": "61.501562",
+    "longitude": "25.6839011",
+    "details": "<p>Tori <br />19700 Sysm\u00e4</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6792,
+    "title": "Papel Ky",
+    "latitude": "60.4417007",
+    "longitude": "22.286268",
+    "details": "<p>Uudenmaantie 17 <br />20700 Turku</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6535,
+    "title": "Paratiisi Grilli Marjatta Salminen",
+    "latitude": "61.4902353",
+    "longitude": "21.7963156",
+    "details": "<p>Etel\u00e4ranta 1 <br />28100 Pori</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6786,
+    "title": "Paratiisi Grilli Marjatta Salminen",
+    "latitude": "61.4888623",
+    "longitude": "21.7935111",
+    "details": "<p>Raatihuoneenpuisto <br />28100 Pori</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6788,
+    "title": "Paratiisi Grilli Marjatta Salminen",
+    "latitude": "61.4855847",
+    "longitude": "21.767032",
+    "details": "<p>Maantienkatu <br />28100 Pori</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6617,
+    "title": "Parkanon 4H-Yhdistys",
+    "latitude": "62.0102131",
+    "longitude": "23.024156",
+    "details": "<p>Keskuskatu 1 <br />39700 Parkano</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6784,
+    "title": "Paulan Koju Ky",
+    "latitude": "65.0130913",
+    "longitude": "25.4856768",
+    "details": "<p>V\u00e4nmanninsaari, Meritori <br />90100 Oulu</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6791,
+    "title": "Paumar Oy",
+    "latitude": "60.5449963",
+    "longitude": "21.3553431",
+    "details": "<p>Pleikel\u00e4ntie 2 <br />23360 Kustavi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6576,
+    "title": "Pop Up Ice Cream Company Leino&#038;Junnila",
+    "latitude": "60.398093",
+    "longitude": "22.3766572",
+    "details": "<p>Uimarannantie 33 <br />20780 Kaarina</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6789,
+    "title": "Porin kaupunkijuna Oy",
+    "latitude": "61.4860988",
+    "longitude": "21.7976263",
+    "details": "<p>Etel\u00e4kauppatori 5 <br />28100 Pori</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6785,
+    "title": "Prepia Oy",
+    "latitude": "60.4486151",
+    "longitude": "22.2696568",
+    "details": "<p>Auransilta <br />20100 Turku</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6795,
+    "title": "Printems Oy",
+    "latitude": "62.8914624",
+    "longitude": "27.6865536",
+    "details": "<p>Hapeenl\u00e4hteen puisto <br />70100 Kuopio</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6794,
+    "title": "PSP Service Ky",
+    "latitude": "60.5053157",
+    "longitude": "26.9131234",
+    "details": "<p>Jumalniementie <br />48600 Kotka</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6532,
+    "title": "PSP Service Ky",
+    "latitude": "60.5691631",
+    "longitude": "27.1922872",
+    "details": "<p>Keskuspuisto<br />\n49400 Hamina</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6684,
+    "title": "Puuharyhm\u00e4 Oyj",
+    "latitude": "60.8068404",
+    "longitude": "24.6122532",
+    "details": "<p>V\u00e4hikk\u00e4l\u00e4ntie 11 <br />12400 Tervakoski</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6636,
+    "title": "Kone-Linna Ky",
+    "latitude": "62.8789886",
+    "longitude": "24.8051249",
+    "details": "<p>Keskustie 1 <br />43500 Karstula</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6796,
+    "title": "Kotikuusi Oy",
+    "latitude": "63.6816725",
+    "longitude": "25.9739379",
+    "details": "<p>Vanha Pyh\u00e4j\u00e4rventie 3 <br />86800 Pyh\u00e4salmi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6686,
+    "title": "Kotkan Saaret Oy",
+    "latitude": "60.4605841",
+    "longitude": "26.9499536",
+    "details": "<p>Sapokka Kotka <br />48100 Kotka</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6772,
+    "title": "Kotkan Saaret Oy",
+    "latitude": "60.4580475",
+    "longitude": "26.9437685",
+    "details": "<p>Sapokanlahti <br />48100 Kotka</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6773,
+    "title": "Kuun Tmi",
+    "latitude": "60.1898532",
+    "longitude": "24.9395675",
+    "details": "<p>Tivolitie/Tivolikuja kulmassa <br />00510 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6780,
+    "title": "Kuun Tmi",
+    "latitude": "60.2245519",
+    "longitude": "25.0745293",
+    "details": "<p>Kiviparintie 2 <br />00920 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6632,
+    "title": "L\u00e4nsi-Suomen toripalvelu",
+    "latitude": "62.790556",
+    "longitude": "22.8400148",
+    "details": "<p>Keskustori 4 <br />60100 Sein\u00e4joki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6782,
+    "title": "L\u00e4nstuul Ky",
+    "latitude": "61.6433315",
+    "longitude": "27.2542021",
+    "details": "<p>Haahkalantie 22 <br />50500 Mikkeli</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6779,
+    "title": "Lapinlahden 4 yhdistys ry",
+    "latitude": "63.3660959",
+    "longitude": "27.3901341",
+    "details": "<p>Lapinlahden tori <br />73100 Lapinlahti</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6781,
+    "title": "Lapuan Virki\u00e4 ry",
+    "latitude": "62.9685432",
+    "longitude": "23.0110737",
+    "details": "<p>Kauppakatu 10 <br />62100 Lapua</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6776,
+    "title": "Leivari",
+    "latitude": "60.4626802",
+    "longitude": "24.8041456",
+    "details": "<p>Punamullantie 3 <br />01900 Nurmij\u00e4rvi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6627,
+    "title": "Lihajaloste Korpela Oy",
+    "latitude": "62.5101609",
+    "longitude": "22.7278217",
+    "details": "<p>Sein\u00e4joentie 3 <br />61600 Jalasj\u00e4rvi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6768,
+    "title": "Majakka ja Per\u00e4k\u00e4rry Oy",
+    "latitude": "60.4458734",
+    "longitude": "22.2887093",
+    "details": "<p>Kupittaanpuisto  <br />20520 Turku</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6771,
+    "title": "Mari Albrecht",
+    "latitude": "63.0957217",
+    "longitude": "21.6157843",
+    "details": "<p>Vaasan tori <br />65100 Vaasa</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6775,
+    "title": "Martikainen Eija Sinikka",
+    "latitude": "61.5229456",
+    "longitude": "28.1776036",
+    "details": "<p>Keskustie <br />52200 Puumala</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6769,
+    "title": "Maxsi Cafe Oy",
+    "latitude": "63.5541707",
+    "longitude": "27.1845729",
+    "details": "<p>Iisalmen tori <br />74100 Iisalmi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6774,
+    "title": "Maxsi Cafe Oy",
+    "latitude": "63.6535334",
+    "longitude": "26.6220613",
+    "details": "<p>Kiuruveden Tori <br />74700 Kiuruvesi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6777,
+    "title": "Multievent Oy",
+    "latitude": "60.7190438",
+    "longitude": "24.4405172",
+    "details": "<p>Kauppatie 6 <br />12700 Loppi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6783,
+    "title": "No Kallista",
+    "latitude": "62.6005608",
+    "longitude": "29.7616888",
+    "details": "<p>Joensuun tori <br />80100 Joensuu</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6770,
+    "title": "No Kallista",
+    "latitude": "62.6005608",
+    "longitude": "29.7616888",
+    "details": "<p>Joensuun tori <br />80100 Joensuu</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6778,
+    "title": "Now and Forever somisteet Oy",
+    "latitude": "60.4515966",
+    "longitude": "22.2671343",
+    "details": "<p>Kauppatori <br />20100 Turku</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6582,
+    "title": "Osuuskauppa Keula",
+    "latitude": "61.0995669",
+    "longitude": "21.5053124",
+    "details": "<p>Unajantie 2 <br />26840 Kortela</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6599,
+    "title": "Osuuskauppa Keula",
+    "latitude": "61.1307074",
+    "longitude": "22.127563",
+    "details": "<p>Satakunnankatu 4 <br />27510 Eura</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6690,
+    "title": "Osuuskauppa Suur-Savo",
+    "latitude": "61.8761791",
+    "longitude": "28.9485707",
+    "details": "<p>Nojanmaantie 15 <br />57210 Savonlinna</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6628,
+    "title": "Osuuskauppa Suur-Savo",
+    "latitude": "61.4211413",
+    "longitude": "26.4352116",
+    "details": "<p>M\u00e4yr\u00e4tie 1 <br />19410 Kuortti</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6765,
+    "title": "Oy Levi Restaurants Ltd",
+    "latitude": "67.7868386",
+    "longitude": "24.8195589",
+    "details": "<p>Gondolitie 1 <br />99130 Levi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6762,
+    "title": "Oy Theron Catering Ab",
+    "latitude": "60.1735164",
+    "longitude": "24.9057375",
+    "details": "<p>Hiekkarannantie 11 <br />00100 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6759,
+    "title": "Kaaransyd\u00e4n Oy",
+    "latitude": "60.859293",
+    "longitude": "26.567692",
+    "details": "<p>Suviojantie 19 <br />45610 Koria</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6755,
+    "title": "Kaarnasyd\u00e4n Oy",
+    "latitude": "60.8939596",
+    "longitude": "26.9103586",
+    "details": "<p>Lentoportintie 3 <br />45410 Utti</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6761,
+    "title": "Kaarnasyd\u00e4n Oy",
+    "latitude": "60.9069253",
+    "longitude": "26.6243555",
+    "details": "<p>Kuusankosken keskusta <br />45700 Kuusankoski</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6626,
+    "title": "Kahvila Konditoria Postelli",
+    "latitude": "61.8039465",
+    "longitude": "22.395378",
+    "details": "<p>keskuskatu 51 <br />38700 Kankaanp\u00e4\u00e4</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6767,
+    "title": "Kainuun T\u00e4hti Oy",
+    "latitude": "64.3196108",
+    "longitude": "28.0445749",
+    "details": "<p>Viitostie 2 <br />88470 Kontiom\u00e4ki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6760,
+    "title": "Kanresta Oy",
+    "latitude": "60.2875973",
+    "longitude": "25.0406225",
+    "details": "<p>Tiedepuisto 1 <br />01300 Vantaa</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6763,
+    "title": "Kappelin Grilli Oy",
+    "latitude": "63.5479789",
+    "longitude": "23.6952768",
+    "details": "<p>Kaustintie 4 <br />69600 Kaustinen</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6756,
+    "title": "Karamella Oy",
+    "latitude": "60.8686712",
+    "longitude": "26.7038248",
+    "details": "<p>Keskikatu <br />45100 Kouvola</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6687,
+    "title": "Kari Miettunen Oy",
+    "latitude": "60.318237",
+    "longitude": "24.688885",
+    "details": "<p>Luukintie 33 <br />02970 Espoo</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6766,
+    "title": "Kasn\u00e4sudden Oy Ab",
+    "latitude": "59.9211965",
+    "longitude": "22.4122452",
+    "details": "<p>Kasn\u00e4sintie 1294 <br />25930 Kasn\u00e4s</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6764,
+    "title": "Kati Kaukoranta Tmi.",
+    "latitude": "60.7368879",
+    "longitude": "24.7709632",
+    "details": "<p>H\u00e4meenkatu-Kalapojankuja <br />11300 Riihim\u00e4ki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6597,
+    "title": "Kauhajoen 4H-Yhdistys",
+    "latitude": "62.4249411",
+    "longitude": "22.1797582",
+    "details": "<p>Topeeka 25 <br />61800 Kauhajoki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6685,
+    "title": "Kauppakatu 24",
+    "latitude": "62.2427271",
+    "longitude": "25.7480046",
+    "details": "<p>Kauppakatu 24 <br />40100 Jyv\u00e4skyl\u00e4</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6757,
+    "title": "Kauppatorin Grilli Elintarvike ja Kukka",
+    "latitude": "64.2271418",
+    "longitude": "27.7287108",
+    "details": "<p>Raatihuoneen Tori <br />87100 Kajaani</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6758,
+    "title": "Kauppatorin Grilli Elintarvike ja Kukka",
+    "latitude": "64.2245222",
+    "longitude": "27.7352516",
+    "details": "<p>Kauppatori <br />87100 Kajaani</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6751,
+    "title": "Kaxm Oy",
+    "latitude": "60.5864303",
+    "longitude": "22.8451721",
+    "details": "<p>Salontie 20 <br />21480 Marttila</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6740,
+    "title": "Keikku ja sake ay",
+    "latitude": "62.8290524",
+    "longitude": "27.6673017",
+    "details": "<p>Pirtinkaari 28 <br />70820 Kuopio</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6747,
+    "title": "Kenk\u00e4maailma Oy",
+    "latitude": "60.9420909",
+    "longitude": "23.3629049",
+    "details": "<p>Lasitehtaantie 1 <br />31640 Humppila</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6737,
+    "title": "KF Restaurants Oy",
+    "latitude": "60.1482488",
+    "longitude": "24.7534334",
+    "details": "<p>Nokkalanniemi 2 <br />02230 Espoo</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6750,
+    "title": "Kingiskaani Oy",
+    "latitude": "61.8642014",
+    "longitude": "28.8978286",
+    "details": "<p>Tallisaari <br />57200 Savonlinna</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6749,
+    "title": "KJ Jokiper\u00e4 avoin yhti\u00f6",
+    "latitude": "64.8868368",
+    "longitude": "28.9069537",
+    "details": "<p>Risteentie 12 <br />89600 Suomussalmi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6744,
+    "title": "Kone-Linna Ky",
+    "latitude": "62.7056422",
+    "longitude": "25.2600127",
+    "details": "<p>Kauppakatu 4 <br />43100 Saarij\u00e4rvi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6736,
+    "title": "Hovikalla Oy",
+    "latitude": "60.4697933",
+    "longitude": "25.0836764",
+    "details": "<p>Rantakatu <br />04400 J\u00e4rvenp\u00e4\u00e4</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6742,
+    "title": "Hovikalla Oy",
+    "latitude": "62.8923109",
+    "longitude": "27.6783817",
+    "details": "<p>Tori 1 (Tulliportinkatu/Haapaniemenkatu) <br />70100 Kuopio</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6743,
+    "title": "Hovikalla Oy",
+    "latitude": "62.8918492",
+    "longitude": "27.6824939",
+    "details": "<p>Vuorikadun laituri <br />70100 Kuopio</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6630,
+    "title": "Huoltamot Varelius Oy",
+    "latitude": "60.4546375",
+    "longitude": "24.8418657",
+    "details": "<p>Ilvesvuorenkatu 2 <br />1900 Nurmij\u00e4rvi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6754,
+    "title": "Huoltoasema Velj.Lehtiset Oy",
+    "latitude": "61.4668699",
+    "longitude": "23.6556636",
+    "details": "<p>Kurikantie 2 <br />33960 Pirkkala</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6745,
+    "title": "Ingalills",
+    "latitude": "60.0548947",
+    "longitude": "23.6468141",
+    "details": "<p>Lepinpellonkatu 2 <br />10300 Karjaa</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6748,
+    "title": "Ipe`s Herkku",
+    "latitude": "65.7313026",
+    "longitude": "24.551775",
+    "details": "<p>Sis\u00e4satama <br />94100 Kemi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6752,
+    "title": "J. Brandt Ky",
+    "latitude": "61.3135513",
+    "longitude": "23.7506908",
+    "details": "<p>Kirkkopolku/Myllyniemi <br />37500 Lemp\u00e4\u00e4l\u00e4</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6738,
+    "title": "J. Knuuti Oy",
+    "latitude": "60.155106",
+    "longitude": "24.9590755",
+    "details": "<p>Ehrenstromintie <br />00140 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6739,
+    "title": "J. Knuuti Oy",
+    "latitude": "60.1694794",
+    "longitude": "24.9522867",
+    "details": "<p>Senaatintori <br />00170 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6741,
+    "title": "J.Brandt Ky",
+    "latitude": "61.5016559",
+    "longitude": "23.778584",
+    "details": "<p>Tammelantori <br />33100 Tampere</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6753,
+    "title": "J&#038;J Laaksonen",
+    "latitude": "62.3897901",
+    "longitude": "26.4368677",
+    "details": "<p>Keskustie 30 <br />41520 Hankasalmi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6746,
+    "title": "J\u00e4\u00e4skel\u00e4inen Pirjo Tuulikki",
+    "latitude": "60.463266",
+    "longitude": "25.0752513",
+    "details": "<p>Toriaukio <br />04400 J\u00e4rvenp\u00e4\u00e4</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6723,
+    "title": "J\u00e4\u00e4tel\u00f6kioski Liikanen",
+    "latitude": "61.9884736",
+    "longitude": "26.6418135",
+    "details": "<p>Keskustie 1 <br />51200 Kangasniemi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6694,
+    "title": "J\u00e4\u00e4tel\u00f6leipomo Oy",
+    "latitude": "60.1672725",
+    "longitude": "24.9524204",
+    "details": "<p>Etel\u00e4ranta <br />00170 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6720,
+    "title": "J\u00e4\u00e4tel\u00f6leipomo Oy",
+    "latitude": "60.1795571",
+    "longitude": "24.9129292",
+    "details": "<p>Merikannontie <br />00260 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6719,
+    "title": "Jarkko Nikkil\u00e4 Oy",
+    "latitude": "60.1690346",
+    "longitude": "24.9407535",
+    "details": "<p>Mannerheimintie 3 <br />00100 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6728,
+    "title": "Joen Catering Oy",
+    "latitude": "62.5982928",
+    "longitude": "29.7629325",
+    "details": "<p>Rantakatu 13 <br />80100 Joensuu</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6721,
+    "title": "Jonar Eagle Oy",
+    "latitude": "60.447377",
+    "longitude": "26.9387382",
+    "details": "<p>Puistotie 32, pys\u00e4k\u00f6intialue <br />48130 Kotka</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6620,
+    "title": "Jumak Oy",
+    "latitude": "62.2492211",
+    "longitude": "23.783209",
+    "details": "<p>Sampolantie 7 <br />34800 Virrat</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6722,
+    "title": "Epple Oy",
+    "latitude": "60.1805002",
+    "longitude": "24.9411866",
+    "details": "<p>El\u00e4intarhantie, Tokoinranta <br />00530 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6733,
+    "title": "Evij\u00e4rven Urheilijat R.Y.",
+    "latitude": "63.3670357",
+    "longitude": "23.4756274",
+    "details": "<p>Kauppatie 3 <br />62500 Evij\u00e4rvi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6726,
+    "title": "Fun Cow Oy",
+    "latitude": "61.8681805",
+    "longitude": "28.8691092",
+    "details": "<p>tulliportinkatu 10 <br />57100 Savonlinna</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6734,
+    "title": "FunCow Oy",
+    "latitude": "60.1692913",
+    "longitude": "24.9310569",
+    "details": "<p>Salomonkatu 15/Tennispalatsinaukio <br />00100 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6729,
+    "title": "Go Arctic Oy",
+    "latitude": "65.0954722",
+    "longitude": "25.8189437",
+    "details": "<p>Koitelinkoskentie 456 <br />90900 Kiiminki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6732,
+    "title": "Grilli-kahvila Mi-Sa Ky",
+    "latitude": "62.1400951",
+    "longitude": "22.5630175",
+    "details": "<p>Kyl\u00e4-Karviantie 27 <br />39930 Karvia</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6735,
+    "title": "Grilli-kahvio Tikander Oy",
+    "latitude": "61.7424299",
+    "longitude": "26.1089046",
+    "details": "<p>Keskustie 3 <br />19650 Joutsa</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6727,
+    "title": "Grillisep\u00e4t Oy",
+    "latitude": "62.7319778",
+    "longitude": "22.5801063",
+    "details": "<p>Kauppatie 9 <br />60800 Ilmajoki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6724,
+    "title": "H\u00e4ij\u00e4\u00e4n Huoltokeskus Oy",
+    "latitude": "61.5011085",
+    "longitude": "23.0906044",
+    "details": "<p>Kauppakuja 1 <br />38420 H\u00e4ij\u00e4\u00e4</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6718,
+    "title": "H\u00e4rk\u00e4pakari Oy",
+    "latitude": "61.1751027",
+    "longitude": "22.6814679",
+    "details": "<p>Risto rytinkatu 2 <br />32700 Huittinen</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6730,
+    "title": "Hiltunen &#038; Savolainen avoin yhti\u00f6",
+    "latitude": "60.6713715",
+    "longitude": "26.2525527",
+    "details": "<p>Koivistontie 2 <br />07830 Pukaro</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6725,
+    "title": "Hima Catering",
+    "latitude": "61.1801302",
+    "longitude": "22.6962446",
+    "details": "<p>Kappelikuja 1 <br />32700 Huittinen</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6731,
+    "title": "Hovikalla Oy",
+    "latitude": "62.8451254",
+    "longitude": "27.4983291",
+    "details": "<p>Viitostie 1799 <br />70800 Kuopio</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6703,
+    "title": "Hovikalla Oy",
+    "latitude": "62.892373",
+    "longitude": "27.696939",
+    "details": "<p>Kuopion Matkustajasatama <br />70100 Kuopio</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6704,
+    "title": "Hovikalla Oy",
+    "latitude": "62.8923109",
+    "longitude": "27.6783817",
+    "details": "<p>Kuopion Kauppatori paikka 4 (Haapaniemenkatu) <br />70100 Kuopio</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6657,
+    "title": "Anrevet Oy",
+    "latitude": "62.4893113",
+    "longitude": "27.7708498",
+    "details": "<p>Kalmalahdentie 2 <br />79100 Lepp\u00e4virta</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6688,
+    "title": "Autopalvelu Valkeapaa Oy",
+    "latitude": "61.6075411",
+    "longitude": "29.4914282",
+    "details": "<p>It\u00e4katu 1 <br />59310 S\u00e4rkisalmi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6702,
+    "title": "BarCafe Keltainen Aitta Oy",
+    "latitude": "65.032364",
+    "longitude": "25.4385404",
+    "details": "<p>H\u00f6yrymyllyntie 7-9 <br />90520 Oulu</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6715,
+    "title": "Bellingham Oy",
+    "latitude": "62.2461623",
+    "longitude": "26.1344385",
+    "details": "<p>Ruuhim\u00e4entie 3 <br />41400 Lievestuore</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6712,
+    "title": "Blue Camp Oy",
+    "latitude": "61.1298051",
+    "longitude": "21.5208442",
+    "details": "<p>Kaurisj\u00e4rvenkatu 3 <br />26100 Rauma</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6707,
+    "title": "Cream Masters Oy",
+    "latitude": "60.2365403",
+    "longitude": "24.8918053",
+    "details": "<p>Kantelettarentie 1 <br />00420 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6714,
+    "title": "ELTUR OY",
+    "latitude": "61.1284045",
+    "longitude": "21.4939668",
+    "details": "<p>Savilan puisto <br />26100 Rauma</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6716,
+    "title": "Enter Ventures Oy",
+    "latitude": "60.1886441",
+    "longitude": "24.9291119",
+    "details": "<p>Hammarskj\u00f6ldintie 5 <br />00250 Helsinki</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6717,
+    "title": "ABC Juva",
+    "latitude": "61.8973801",
+    "longitude": "27.8055779",
+    "details": "<p>Tulostie 1 <br />51800 Juva</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6705,
+    "title": "AG-grillit Oy",
+    "latitude": "60.2696974",
+    "longitude": "24.4424089",
+    "details": "<p>Koskentori <br />02880 Veikkola</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6710,
+    "title": "Ainon Satumaa",
+    "latitude": "62.2581204",
+    "longitude": "24.7099355",
+    "details": "<p>Keuruuntie 9 <br />42700 Keuruu</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6658,
+    "title": "AK Unelmaherkku avoin yhti\u00f6",
+    "latitude": "64.9776639",
+    "longitude": "25.5874846",
+    "details": "<p>Kangaskontiontie 15 <br />90240 Oulu</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6713,
+    "title": "Alaj\u00e4rven Siion Ry",
+    "latitude": "63.000115",
+    "longitude": "23.8151354",
+    "details": "<p>Kauppakatu 18 <br />62900 Alaj\u00e4rvi</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6711,
+    "title": "Alex &#038; Willis Oy",
+    "latitude": "62.0304147",
+    "longitude": "24.6188449",
+    "details": "<p>Ratakatu <br />35800 M\u00e4ntt\u00e4</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6708,
+    "title": "All Ice Myynti Oy",
+    "latitude": "60.4447632",
+    "longitude": "22.2547377",
+    "details": "<p>L\u00e4ntinen Rantakatu <br />20100 Turku</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6709,
+    "title": "Amerdo Oy",
+    "latitude": "62.2883489",
+    "longitude": "25.7173151",
+    "details": "<p>Palokanorsi 1 <br />40270 Palokka</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6614,
+    "title": "Amerdo Oy",
+    "latitude": "62.2176899",
+    "longitude": "25.7217089",
+    "details": "<p>Kylm\u00e4lahdentie 8 <br />40500 Jyv\u00e4skyl\u00e4</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  },
+  {
+    "id": 6706,
+    "title": "AG-grillit Oy",
+    "latitude": "60.3328062",
+    "longitude": "24.3259384",
+    "details": "<p>Tuusantie 1 <br />01300 Nummela</p>\n",
+    "categories": [],
+    "icon": "https://www.pingviini.fi/wp-content/plugins/basic-google-maps-placemarks/images/default-marker.png",
+    "zIndex": "0"
+  }
+]

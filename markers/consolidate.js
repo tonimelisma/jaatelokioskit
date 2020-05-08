@@ -1,0 +1,1 @@
+import helsingin from "./helsingin_jäätelötehdas.json"
