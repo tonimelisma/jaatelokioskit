@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import { StatusBar, StyleSheet, Text, View, Dimensions } from "react-native";
+import { StyleSheet, Text, View, Dimensions } from "react-native";
 
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
@@ -10,7 +10,7 @@ import * as Location from "expo-location";
 // all map markers are consolidated in ready JSON data structure:
 import kioskit from "./markers/kioskit.json";
 
-const HomeScreen = () => {
+const App = () => {
   const [location, setLocation] = useState({
     latitude: 60.169297,
     longitude: 24.938435,
@@ -37,7 +37,6 @@ const HomeScreen = () => {
 
   return (
     <View style={styles.container}>
-      <StatusBar barStyle="dark-content" />
       <MapView style={styles.mapStyle} region={location}>
         {kioskit.map((marker) => (
           <Marker
@@ -61,38 +60,10 @@ const HomeScreen = () => {
   );
 };
 
-const Stack = createStackNavigator();
-
-const App = () => {
-  return (
-    <NavigationContainer>
-      <Stack.Navigator
-        /*screenOptions={{
-          headerStyle: {
-            backgroundColor: "#dddddd",
-          },
-          headerTintColor: "#222244",
-          headerTitleStyle: {
-            fontWeight: "bold",
-          },
-        }} */
-      >
-        <Stack.Screen
-          name="Home"
-          component={HomeScreen}
-          options={{
-            title: "Suomen Jäätelökioskit",
-          }}
-        />
-      </Stack.Navigator>
-    </NavigationContainer>
-  );
-};
-
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    //backgroundColor: "#fff",
+    backgroundColor: "#fff",
     alignItems: "center",
     justifyContent: "center",
   },
