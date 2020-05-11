@@ -1,11 +1,16 @@
 {
   "expo": {
-    "name": "jaatelokioskit",
+    "name": "Jäätelökioskit",
+    "description": "Suomen jäätelökioskit kartalla",
+    "owner": "tonimelisma",
+    "sdkVersion": "37.0.0",
+    "privacy": "public",
+    "githubUrl": "https://github.com/tonimelisma/jaatelokioskit",
     "slug": "jaatelokioskit",
+    "scheme": "jaatelokioskit",
     "platforms": [
       "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -22,7 +27,19 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "bundleIdentifier": "fi.tonimelisma.jaatelokioskit",
+      "buildNumber": "1.0.0",
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSLocationWhenInUseUsageDescription": "This app will show your location and centralize the map for ease of use"
+      }
+    },
+    "android": {
+      "package": "fi.tonimelisma.jaatelokioskit",
+      "versionCode": 1,
+      "permissions": [
+        "ACCESS_FINE_LOCATION"
+      ]
     }
   }
 }
