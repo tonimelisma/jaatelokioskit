@@ -1,0 +1,288 @@
+[
+  {
+    "id": 4,
+    "nimi": "Pingviini",
+    "tyyppi": "Kioskipaikka",
+    "osoite": "Ehrenströmintie - Iso Puistotie",
+    "geometria": [
+      24.959625274408776,
+      60.1551697112453
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 14,
+    "nimi": "Pingviini",
+    "tyyppi": "Kioskipaikka",
+    "osoite": "Tivolitie",
+    "geometria": [
+      24.93989553787838,
+      60.18978273721703
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 268,
+    "nimi": "Pingviini",
+    "tyyppi": "Kioskipaikka",
+    "osoite": "Säästöpankinranta",
+    "geometria": [
+      24.94823884819381,
+      60.17961934920931
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 287,
+    "nimi": "Pingviini",
+    "tyyppi": "Kioskipaikka",
+    "osoite": "Senaatintori",
+    "geometria": [
+      24.95150220405954,
+      60.16914176396217
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 291,
+    "nimi": "Ingman",
+    "tyyppi": "Kioskipaikka, jäätelö.",
+    "osoite": "Aurinkoranta",
+    "geometria": [
+      25.153748671780864,
+      60.20135446280569
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 329,
+    "nimi": "Helsingin Jäätelötehdas",
+    "tyyppi": "Kioskipaikka, jäätelö.",
+    "osoite": "Eteläinen Hesperiankatu",
+    "geometria": [
+      24.914499105674366,
+      60.17549971576593
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 330,
+    "nimi": "Magi",
+    "tyyppi": "Kioskipaikka, jäätelö.",
+    "osoite": "Merisatamanranta Ullanlinna",
+    "geometria": [
+      24.946450194181946,
+      60.15461723365746
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 331,
+    "nimi": "Ingman",
+    "tyyppi": "Kioskipaikka, jäätelö.",
+    "osoite": "Paavo Nurmentie/Mäntymäentie",
+    "geometria": [
+      24.926609612386997,
+      60.1842476988424
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 346,
+    "nimi": "Pingviini",
+    "tyyppi": "Kioskipaikka",
+    "osoite": "Tervasaarenkannas",
+    "geometria": [
+      24.962238399349825,
+      60.174356988165776
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 347,
+    "nimi": "Pingviini",
+    "tyyppi": "Kioskipaikka",
+    "osoite": "Rajasaarenpenger, Taka-töölö",
+    "geometria": [
+      24.912637207610107,
+      60.18160219063097
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 348,
+    "nimi": "Ingman",
+    "tyyppi": "Kioskipaikka, jäätelö.",
+    "osoite": "Herttoniemenranta/uimarannan vieressä",
+    "geometria": [
+      25.038003530576617,
+      60.18599367027746
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 356,
+    "nimi": "Pingviini",
+    "tyyppi": "Kioskipaikka",
+    "osoite": "Kolmensepänaukio",
+    "geometria": [
+      24.940794792419027,
+      60.168737813615316
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 358,
+    "nimi": "Ingman",
+    "tyyppi": "Kioskipaikka",
+    "osoite": "Salomonkatu / Runeberginkatu",
+    "geometria": [
+      24.928748674878104,
+      60.16839325588065
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 376,
+    "nimi": "Ingman",
+    "tyyppi": "Kioskipaikka, jäätelö.",
+    "osoite": "Hakaniementori",
+    "geometria": [
+      24.952014299236144,
+      60.178990333025126
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 382,
+    "nimi": "Helsingin Jäätelötehdas",
+    "tyyppi": "Kioskipaikka, jäätelö.",
+    "osoite": "Kaivopuistonranta/Ehrenströmintie",
+    "geometria": [
+      24.955114288671094,
+      60.15403996370967
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 383,
+    "nimi": "V. Lempiäinen",
+    "tyyppi": "Kioskitila, jäätelö.",
+    "osoite": "Tamminiementie/Seurasaarentie",
+    "geometria": [
+      24.884676470845367,
+      60.1883364295444
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 393,
+    "nimi": "Ingman",
+    "tyyppi": "Kioskipaikka, jäätelö.",
+    "osoite": "Kauppatori/Havis Amanda",
+    "geometria": [
+      24.95173478902166,
+      60.167489658274405
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 397,
+    "nimi": "V. Lempiäinen",
+    "tyyppi": "Kioskipaikka, jäätelö.",
+    "osoite": "Hietalahden tori",
+    "geometria": [
+      24.930353068790083,
+      60.16291485349649
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 402,
+    "nimi": "Ingman",
+    "tyyppi": "Kioskipaikka",
+    "osoite": "Vaasan puisto / Sörnäisten metroasema",
+    "geometria": [
+      24.960466028110716,
+      60.187869726712385
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 405,
+    "nimi": "Helsingin Jäätelötehdas",
+    "tyyppi": "Kioskipaikka, jäätelö.",
+    "osoite": "Kaivopuisto/Uunisaarenlaituri",
+    "geometria": [
+      24.950980312800638,
+      60.15561366983146
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 421,
+    "nimi": "Pingviini",
+    "tyyppi": "Kioskipaikka",
+    "osoite": "Ruoholahdentori",
+    "geometria": [
+      24.91431029501794,
+      60.1619134088623
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 455,
+    "nimi": "Ingman",
+    "tyyppi": "Kioskipaikka, jäätelö.",
+    "osoite": "Töölönlahti/Helsinginkatu",
+    "geometria": [
+      24.932286911253446,
+      60.184394326421604
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 460,
+    "nimi": "Magi",
+    "tyyppi": "Kioskipaikka, jäätelö.",
+    "osoite": "Munkkiniemenranta/Laajalahdentie",
+    "geometria": [
+      24.870537725242826,
+      60.19494050829824
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 493,
+    "nimi": "Heading",
+    "tyyppi": "Jäätelökioskipaikka Eiran ranta.",
+    "osoite": "Eiran ranta",
+    "geometria": [
+      24.933918842460034,
+      60.15468592998318
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 541,
+    "nimi": "Jäätelöleipomo",
+    "tyyppi": "Jäätelökioskipaikka, Jäätelöleipomo Oy, HEL2019-003879 3.4.2019 § 68",
+    "osoite": "Bulevardi, Vanha kirkkopuisto ",
+    "geometria": [
+      24.94132847916436,
+      60.16595485090628
+    ],
+    "voimassa": true
+  },
+  {
+    "id": 550,
+    "nimi": "Jäätelöleipomo",
+    "tyyppi": "Jäätelökioskipaikka, Kauppatori, Jäätelöleipomo Oy, 1.4.2020-31.10.2020, HEL 2019-013483",
+    "osoite": "",
+    "geometria": [
+      24.953869750016167,
+      60.167764387156666
+    ],
+    "voimassa": true
+  }
+]
