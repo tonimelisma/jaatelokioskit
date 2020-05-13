@@ -38,7 +38,12 @@ const HomeScreen = () => {
   return (
     <View style={styles.container}>
       <StatusBar barStyle="dark-content" />
-      <MapView style={styles.mapStyle} region={location}>
+      <MapView
+        style={styles.mapStyle}
+        region={location}
+        showsUserLocation={true}
+        showsMyLocationButton={true}
+      >
         {kioskit.map((marker) => (
           <Marker
             key={marker.id}
@@ -55,7 +60,6 @@ const HomeScreen = () => {
             </Callout>
           </Marker>
         ))}
-        <Marker coordinate={location} pinColor="blue" />
       </MapView>
     </View>
   );
@@ -67,7 +71,7 @@ const App = () => {
   return (
     <NavigationContainer>
       <Stack.Navigator
-        /*screenOptions={{
+      /*screenOptions={{
           headerStyle: {
             backgroundColor: "#dddddd",
           },
@@ -81,7 +85,16 @@ const App = () => {
           name="Home"
           component={HomeScreen}
           options={{
-            title: "Suomen Jäätelökioskit",
+            title: "Jäätelökioskit",
+            //headerStyle: {
+            // backgroundColor: "#281e78",
+            //},
+            // headerTintColor: "#f2efd9",
+            headerTitleStyle: {
+              fontWeight: "bold",
+              // fontFamily: "Copperplate",
+              fontSize: 21,
+            },
           }}
         />
       </Stack.Navigator>
@@ -92,7 +105,7 @@ const App = () => {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    //backgroundColor: "#fff",
+    // backgroundColor: "#281E78",
     alignItems: "center",
     justifyContent: "center",
   },
