@@ -7,6 +7,8 @@ import { createStackNavigator } from "@react-navigation/stack";
 import MapView, { Marker, Callout } from "react-native-maps";
 import * as Location from "expo-location";
 
+import * as Amplitude from "expo-analytics-amplitude";
+
 // all map markers are consolidated in ready JSON data structure:
 import kioskit from "./markers/kioskit.json";
 
@@ -16,6 +18,12 @@ const HomeScreen = () => {
     longitude: 24.938435,
     latitudeDelta: 0.03,
     longitudeDelta: 0.03,
+    detected: false,
+  });
+
+  useEffect(() => {
+    Amplitude.initialize("790da95f8f701fd0443d0428315f3c18");
+    Amplitude.logEvent("APP_OPEN");
   });
 
   useEffect(() => {
@@ -25,12 +33,18 @@ const HomeScreen = () => {
       //  setErrorMsg('Permission to access location was denied');
       // }
 
-      let location = await Location.getCurrentPositionAsync({});
+      let newLocation = await Location.getCurrentPositionAsync({});
+      Amplitude.logEventWithProperties("GET_CURRENT_POSITION", {
+        latitude: newLocation.coords.latitude,
+        longitude: newLocation.coords.longitude,
+        detected: true,
+      });
       setLocation({
-        latitude: location.coords.latitude,
-        longitude: location.coords.longitude,
+        latitude: newLocation.coords.latitude,
+        longitude: newLocation.coords.longitude,
         latitudeDelta: 0.03,
         longitudeDelta: 0.03,
+        detected: true,
       });
     })();
   }, []);
@@ -53,6 +67,12 @@ const HomeScreen = () => {
               latitude: marker.latitude,
               longitude: marker.longitude,
             }}
+            onPress={(event) =>
+              Amplitude.logEventWithProperties("MARKER_PRESS", {
+                nativeEvent: event.nativeEvent,
+                location: location,
+              })
+            }
           >
             <Callout>
               <Text style={{ fontWeight: "bold" }}>{marker.title}</Text>
