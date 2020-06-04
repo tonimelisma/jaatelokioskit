@@ -1,0 +1,1100 @@
+[
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Rovaniemi",
+    "Kioskin osoite": "Koskikatu 25 (Rinteenkulma)",
+    "Postino.": "96200",
+    "Kaupunki": "Rovaniemi"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Ruissalo",
+    "Kioskin osoite": "Ruissalon Puistotie (Golf-kentän vieressä)",
+    "Postino.": "20100",
+    "Kaupunki": "Turku"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Suuris (Suurpelto)",
+    "Kioskin osoite": "Kynäkatu 6",
+    "Postino.": "02250",
+    "Kaupunki": "Espoo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Pirkkolan Uimahalli",
+    "Kioskin osoite": "Pirkkolan Metsätie 6",
+    "Postino.": "00630",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Järvenpää",
+    "Kioskin osoite": "Mannilantien risteys / Kävelykatu Janne ",
+    "Postino.": "04400",
+    "Kaupunki": "Järvenpää"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Linnatuuli Pohjoinen",
+    "Kioskin osoite": "Helsingintie 1426",
+    "Postino.": "12400",
+    "Kaupunki": "Tervakoski"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Tarkkis ",
+    "Kioskin osoite": "Tarkkistentie 113",
+    "Postino.": "06150",
+    "Kaupunki": "Porvoo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Joutseno",
+    "Kioskin osoite": "Joutsenon tori",
+    "Postino.": "54100",
+    "Kaupunki": "Joutseno"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski ABC Renkomäki",
+    "Kioskin osoite": "Simolanmutka 1",
+    "Postino.": "15700",
+    "Kaupunki": "Lahti"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Töölönlahti",
+    "Kioskin osoite": "Helsinginkatu-Mäntymäentie",
+    "Postino.": "00250",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski ABC Pirkkala",
+    "Kioskin osoite": "Keisarinviitta 2",
+    "Postino.": "33960",
+    "Kaupunki": "Pirkkala"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski RS- Grilli",
+    "Kioskin osoite": "Tallimäentie",
+    "Postino.": "25900",
+    "Kaupunki": "Taalintehdas"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Rotuaari Oulu",
+    "Kioskin osoite": "Kirkkokatu, Rotuaari",
+    "Postino.": "90100",
+    "Kaupunki": "Oulu"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Ahtisaarenaukio",
+    "Kioskin osoite": "Kauppatori 2",
+    "Postino.": "90100",
+    "Kaupunki": "Oulu"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Ainolanpuisto ",
+    "Kioskin osoite": "Kiikkusaari",
+    "Postino.": "90130",
+    "Kaupunki": "Oulu"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Akaan Tori",
+    "Kioskin osoite": "Kirkkotie 1",
+    "Postino.": "37800",
+    "Kaupunki": "Akaa"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Paijan Beach Turku",
+    "Kioskin osoite": "Kaarle Knuutinpojan Rantatie ",
+    "Postino.": "20810",
+    "Kaupunki": "Turku"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Eurantori",
+    "Kioskin osoite": "Euran Tori",
+    "Postino.": "27510",
+    "Kaupunki": "Eura"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski CM Päiväranta Kuopio",
+    "Kioskin osoite": "Päivärannantie 18",
+    "Postino.": "70420",
+    "Kaupunki": "Kuopio"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Nivalan Tori",
+    "Kioskin osoite": "Kalliontie 23",
+    "Postino.": "85500",
+    "Kaupunki": "Nivala"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kauhajoki Puistotie",
+    "Kioskin osoite": "Puistotie 70",
+    "Postino.": "61800",
+    "Kaupunki": "Kauhajoki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski K-Supermarket Kalajoki",
+    "Kioskin osoite": "Merenojantie 2",
+    "Postino.": "85100",
+    "Kaupunki": "Kalajoki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski La Greta Lappeenranta/Oleksi",
+    "Kioskin osoite": "Kauppakatu 30",
+    "Postino.": "53100",
+    "Kaupunki": "Lappeenranta"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Jyväskylän Satama",
+    "Kioskin osoite": "Satamakatu 27",
+    "Postino.": "40100",
+    "Kaupunki": "Jyväskylä"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Laitila ",
+    "Kioskin osoite": "Keskuskatu 26 C",
+    "Postino.": "23800",
+    "Kaupunki": "Laitila"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Cafe Uikko Nivala",
+    "Kioskin osoite": "Kalliontie 59",
+    "Postino.": "85500",
+    "Kaupunki": "Nivala"
+  },
+  {
+    "Kioskipaikan nimi": "Halpahallin Jäätelökioski Siilinjärvi",
+    "Kioskin osoite": "Siilinkoskentie 1",
+    "Postino.": "71800",
+    "Kaupunki": "Siilinjärvi"
+  },
+  {
+    "Kioskipaikan nimi": "Saaristokadun Jäätelökioski",
+    "Kioskin osoite": "Saaristokatu",
+    "Postino.": "70840",
+    "Kaupunki": "Kuopio"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Siilinjärven Pesis",
+    "Kioskin osoite": "Siilinjärven Tori",
+    "Postino.": "71800",
+    "Kaupunki": "Siilinjärvi"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Yyterin Kylpylähotelli",
+    "Kioskin osoite": "Sipintie 1",
+    "Postino.": "28840",
+    "Kaupunki": "Pori"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Sun Jäätelö",
+    "Kioskin osoite": "Kirkkotie 1",
+    "Postino.": "85410",
+    "Kaupunki": "Sievi"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Pusupuisto ",
+    "Kioskin osoite": "Kristiinankatu 2",
+    "Postino.": "53900",
+    "Kaupunki": "Lappeenranta"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Orimattila",
+    "Kioskin osoite": "Erkontie 16",
+    "Postino.": "16300",
+    "Kaupunki": "Orimattila"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kouvolan Kävelykatu Manski, eteläp.",
+    "Kioskin osoite": "Kouvolan Kävelykatu Manski, eteläpää",
+    "Postino.": "45100",
+    "Kaupunki": "Kouvola"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Prisma Kaleva",
+    "Kioskin osoite": "Sammonkatu 75",
+    "Postino.": "33540",
+    "Kaupunki": "Tampere"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Mäntyharju",
+    "Kioskin osoite": "Varpaisentie,mäntyharjun torin alareuna",
+    "Postino.": "52700",
+    "Kaupunki": "Mäntyharju"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Riihimäen Graniittiaukio",
+    "Kioskin osoite": "Graniittiaukio, Välikatu",
+    "Postino.": "11100",
+    "Kaupunki": "Riihimäki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Uusikaupunki",
+    "Kioskin osoite": "Koulukatu 2",
+    "Postino.": "23500",
+    "Kaupunki": "Uusikaupunki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski EIF Tammisaari",
+    "Kioskin osoite": "Rantapuistikko",
+    "Postino.": "10600",
+    "Kaupunki": "Tammisaari"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kolmenkulma",
+    "Kioskin osoite": "Rounionkatu 140",
+    "Postino.": "37510",
+    "Kaupunki": "Nokia"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Tuuri Tavarapuoti",
+    "Kioskin osoite": "Onnentie 7",
+    "Postino.": "63619",
+    "Kaupunki": "Tuuri"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Pyynikin Hiekkaranta ",
+    "Kioskin osoite": "Jalkasaarentie 7",
+    "Postino.": "33210",
+    "Kaupunki": "Tampere"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kauttua",
+    "Kioskin osoite": "Kauttuan Tori",
+    "Postino.": "27510",
+    "Kaupunki": "Eura"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Rådhustorget Ekenäs",
+    "Kioskin osoite": "Rådhustorget/ Raatihuoneentori",
+    "Postino.": "10600",
+    "Kaupunki": "Tammisaari"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski ABC Oritupa ",
+    "Kioskin osoite": "Valtatie 9",
+    "Postino.": "35300",
+    "Kaupunki": "Orivesi"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kirkkolampi",
+    "Kioskin osoite": "Veitikantie ",
+    "Postino.": "96100",
+    "Kaupunki": "Rovaniemi"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Haminan Palloilijat",
+    "Kioskin osoite": "Kari Lindbergin katu, Vallikenttä",
+    "Postino.": "49400",
+    "Kaupunki": "Hamina"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Laukontori",
+    "Kioskin osoite": "Laukontori",
+    "Postino.": "33100",
+    "Kaupunki": "Tampere"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Tuomiokirkonkatu ",
+    "Kioskin osoite": "Tuomiokirkonkatu 32 A ja B välissä",
+    "Postino.": "33100",
+    "Kaupunki": "Tampere"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Ylivieska",
+    "Kioskin osoite": "Torikatu 8",
+    "Postino.": "8400",
+    "Kaupunki": "Ylivieska"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Valkeislampi",
+    "Kioskin osoite": "Valkeisenkatu 7",
+    "Postino.": "70100",
+    "Kaupunki": "Kuopio"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Merijallin ranta",
+    "Kioskin osoite": "Koskitie 8",
+    "Postino.": "90500",
+    "Kaupunki": "Oulu"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Puumala Satama",
+    "Kioskin osoite": "Satamatie 2",
+    "Postino.": "52200",
+    "Kaupunki": "Puumala"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Tuuri Ruokapuoti",
+    "Kioskin osoite": "Väkkäräpakantie 20",
+    "Postino.": "63610",
+    "Kaupunki": "Tuuri"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Mottilantien Liikenneympyrä",
+    "Kioskin osoite": "Mottilantie",
+    "Postino.": "42100",
+    "Kaupunki": "Jämsä"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski CM Seppälä",
+    "Kioskin osoite": "Vasarakatu 29   ",
+    "Postino.": "40320",
+    "Kaupunki": "Jyväskylä"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Palokan Tori",
+    "Kioskin osoite": "Kauppakuja 3 (Palokan Tori)",
+    "Postino.": "40270",
+    "Kaupunki": "Palokka"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Virkkalan Tori",
+    "Kioskin osoite": "Virkkalantie 18",
+    "Postino.": "08700",
+    "Kaupunki": "Virkkala"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kirkkopuisto Lappeenranta ",
+    "Kioskin osoite": "Kauppakatu 38 A",
+    "Postino.": "53100",
+    "Kaupunki": "Lappeenranta"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Joensuun Tori",
+    "Kioskin osoite": "Joensuun Tori",
+    "Postino.": "80100",
+    "Kaupunki": "Joensuu"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kuopion Tori",
+    "Kioskin osoite": "Kuopion Tori",
+    "Postino.": "70100",
+    "Kaupunki": "Kuopio"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Rauman Tori",
+    "Kioskin osoite": "Rauman Kauppatori",
+    "Postino.": "26100",
+    "Kaupunki": "Rauma"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Hämeenpuisto ",
+    "Kioskin osoite": "Hämeenpuisto 22",
+    "Postino.": "33210",
+    "Kaupunki": "Tampere"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kausala",
+    "Kioskin osoite": "Kausalantori",
+    "Postino.": "47400",
+    "Kaupunki": "Kausala"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Grilli-Pizzeria Herkkutupa",
+    "Kioskin osoite": "Kyminasemantie 4",
+    "Postino.": "45610",
+    "Kaupunki": "Koria "
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Mikkelin Tori itäpuoli",
+    "Kioskin osoite": "Porrassalmenkatu, Mikkelin tori",
+    "Postino.": "50100",
+    "Kaupunki": "Mikkeli"
+  },
+  {
+    "Kioskipaikan nimi": "Powerpark Härmä",
+    "Kioskin osoite": "Puistotie 3",
+    "Postino.": "62300",
+    "Kaupunki": "Härmä"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Karhulan tori",
+    "Kioskin osoite": "Karhulan Tori",
+    "Postino.": "48600",
+    "Kaupunki": "Karhula"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Mikkelin Tori",
+    "Kioskin osoite": "Maaherrankatu",
+    "Postino.": "50100",
+    "Kaupunki": "Mikkeli"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Graani",
+    "Kioskin osoite": "Graanintie 1",
+    "Postino.": "50100",
+    "Kaupunki": "Mikkeli"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Eurajoki",
+    "Kioskin osoite": "Kirkkotie 6",
+    "Postino.": "27100",
+    "Kaupunki": "Eurajoki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Loviisa",
+    "Kioskin osoite": "Kuningattarenkatu",
+    "Postino.": "07900",
+    "Kaupunki": "Loviisa"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski JYP Kävelykatu",
+    "Kioskin osoite": "Kauppakatu 22",
+    "Postino.": "40100",
+    "Kaupunki": "Jyväskylä"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski K-Supermarket Lehmo",
+    "Kioskin osoite": "Peltolantie 2",
+    "Postino.": "80710",
+    "Kaupunki": "Lehmo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Jari-Pekka Joroinen",
+    "Kioskin osoite": "Joroistentie 5",
+    "Postino.": "79600",
+    "Kaupunki": "Joroinen"
+  },
+  {
+    "Kioskipaikan nimi": "LAUTAVUORATTU KORKEASAAREN KIOSKI",
+    "Kioskin osoite": "Korkeasaari",
+    "Postino.": "00570",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Taidetehdas",
+    "Kioskin osoite": "Taidetehtaanaukio",
+    "Postino.": "06100",
+    "Kaupunki": "Porvoo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelkökioski Mierolan Silta Café",
+    "Kioskin osoite": "Ventolantie 2",
+    "Postino.": "13720",
+    "Kaupunki": "Parola"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Postin kulma",
+    "Kioskin osoite": "Hämeenkatu 7",
+    "Postino.": "05800",
+    "Kaupunki": "Hyvinkää"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Jari-Pekka Hankasalmi",
+    "Kioskin osoite": "Pieksämäentie 15",
+    "Postino.": "41520",
+    "Kaupunki": "Hankasalmi"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Sello Espoo",
+    "Kioskin osoite": "Leppävaarankatu 3-9",
+    "Postino.": "02600",
+    "Kaupunki": "Espoo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Söderkulla",
+    "Kioskin osoite": "Amiraalintie 2",
+    "Postino.": "01150",
+    "Kaupunki": "Söderkulla "
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Ideapark Etelä",
+    "Kioskin osoite": "Ideaparkinkatu 4",
+    "Postino.": "37570",
+    "Kaupunki": "Lempäälä"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Otanaukea",
+    "Kioskin osoite": "Pyynpäänkatu 3",
+    "Postino.": "26100",
+    "Kaupunki": "Rauma"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Korkeasaari  ",
+    "Kioskin osoite": "Korkeasaari",
+    "Postino.": "00570",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Marian aukio ",
+    "Kioskin osoite": "Valtakatu, Marian aukio",
+    "Postino.": "53100",
+    "Kaupunki": "Lappeenranta"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Korkeasaari Sillan kupeessa",
+    "Kioskin osoite": "Korkeasaari",
+    "Postino.": "00570",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Tammelantori",
+    "Kioskin osoite": "Tammelantori",
+    "Postino.": "33100",
+    "Kaupunki": "Tampere"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kärkkäinen Ii",
+    "Kioskin osoite": "Sorosentie 2",
+    "Postino.": "91100",
+    "Kaupunki": "Ii"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Lauttasaaren ranta",
+    "Kioskin osoite": "Kasinonranta ",
+    "Postino.": "00200",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Munkkiniemen rannan jäätelökioski",
+    "Kioskin osoite": "Ritokalliontie 18",
+    "Postino.": "00330",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Tapiolan Pizza",
+    "Kioskin osoite": "Tapiolantie 9",
+    "Postino.": "02100",
+    "Kaupunki": "Espoo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Hietsu",
+    "Kioskin osoite": "Hiekkarannantie 11",
+    "Postino.": "00100",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Mäntsälä",
+    "Kioskin osoite": "Keskuskatu 4",
+    "Postino.": "04600",
+    "Kaupunki": "Mäntsälä"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Heinolankaari",
+    "Kioskin osoite": "Kauppakaari  ",
+    "Postino.": "67200",
+    "Kaupunki": "Kokkola "
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Pori Kauppatori",
+    "Kioskin osoite": "Kauppatori",
+    "Postino.": "28100",
+    "Kaupunki": "Pori"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kuusijärvi",
+    "Kioskin osoite": "Kuusijärventie 3",
+    "Postino.": "01260",
+    "Kaupunki": "Vantaa"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Inkoo",
+    "Kioskin osoite": "Inkoon satama",
+    "Postino.": "10210",
+    "Kaupunki": "Inkoo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Savonlinna Pikku Kakkonen",
+    "Kioskin osoite": "Erik Laxmannin puistotie",
+    "Postino.": "57130",
+    "Kaupunki": "Savonlinna"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Lappeenrannan tori",
+    "Kioskin osoite": "Kauppatori ",
+    "Postino.": "53100",
+    "Kaupunki": "Lappeenranta"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Sorin Aukio Tampere",
+    "Kioskin osoite": "Sorin aukio",
+    "Postino.": "33100",
+    "Kaupunki": "Tampere"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Oittaa ",
+    "Kioskin osoite": "Kunnarlantie 33-39",
+    "Postino.": "02740",
+    "Kaupunki": "Espoo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Otsolahti",
+    "Kioskin osoite": "Sateenkaari 9",
+    "Postino.": "02110",
+    "Kaupunki": "Espoo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kumpulan Maauimala",
+    "Kioskin osoite": "Allastie 5",
+    "Postino.": "00560",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Panda Tehtaanmyymälä",
+    "Kioskin osoite": "Asematie 2 ",
+    "Postino.": "40800",
+    "Kaupunki": "Vaajakoski"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Jukupark Kalajoki",
+    "Kioskin osoite": "Jukupolku 3-5",
+    "Postino.": "85100",
+    "Kaupunki": "Kalajoki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Jukupark Kalajoki",
+    "Kioskin osoite": "Jukupolku 3-5",
+    "Postino.": "85100",
+    "Kaupunki": "Kalajoki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Munkkiniemenranta",
+    "Kioskin osoite": "Laajalahdentie",
+    "Postino.": "00330",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Merisatamanranta",
+    "Kioskin osoite": "Merisatamanranta 4",
+    "Postino.": "00140",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Paavo Nurmen patsas",
+    "Kioskin osoite": "Paavo Nurmen patsas",
+    "Postino.": "00250",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Herttoniemenranta",
+    "Kioskin osoite": "Kaivolahdenpolku 1",
+    "Postino.": "00810",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Seurasaari",
+    "Kioskin osoite": "Tamminiementie/ Seurasaarentie",
+    "Postino.": "00250",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Hietalahdentori",
+    "Kioskin osoite": "Hietalahdentori",
+    "Postino.": "00180",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Bauhaus Tammisto",
+    "Kioskin osoite": "Tammiston Kauppatie 19",
+    "Postino.": "01510",
+    "Kaupunki": "Vantaa"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Imatran Kävelykatu",
+    "Kioskin osoite": "Koskenparras 4",
+    "Postino.": "55100",
+    "Kaupunki": "Imatra"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kauppatori Kotka",
+    "Kioskin osoite": "Kauppatori",
+    "Postino.": "48100",
+    "Kaupunki": "Kotka"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski ABC Riihimäki",
+    "Kioskin osoite": "Kinturintie 2",
+    "Postino.": "11120",
+    "Kaupunki": "Riihimäki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Tuulos",
+    "Kioskin osoite": "Pohjoistentie 70",
+    "Postino.": "14810",
+    "Kaupunki": "Pohjoinen"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Suvantokatu",
+    "Kioskin osoite": "Suvantokatu 1",
+    "Postino.": "90400",
+    "Kaupunki": "Oulu"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski J. Kärkkäinen Lahti",
+    "Kioskin osoite": "Pasaasi 2",
+    "Postino.": "15700",
+    "Kaupunki": "Lahti"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski SÄRKÄNNIEMI",
+    "Kioskin osoite": "Särkänniemi ",
+    "Postino.": "33230",
+    "Kaupunki": "Tampere"
+  },
+  {
+    "Kioskipaikan nimi": "Malmintorin Jäätelökioski",
+    "Kioskin osoite": "Malmin Kauppatie",
+    "Postino.": "00700",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Jari-Pekka Hartola",
+    "Kioskin osoite": "Yhdystie 2",
+    "Postino.": "19600",
+    "Kaupunki": "Hartola"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Porvoo Koirapuisto",
+    "Kioskin osoite": "Porvoon Tori, Raatihuoneenkatu",
+    "Postino.": "06100",
+    "Kaupunki": "Porvoo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kerava ",
+    "Kioskin osoite": "Kauppakaari 4",
+    "Postino.": "04200",
+    "Kaupunki": "Kerava"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Nikkilä",
+    "Kioskin osoite": "Kirkkoniityntie 27 (Segrispuisto)",
+    "Postino.": "04130",
+    "Kaupunki": "Sipoo"
+  },
+  {
+    "Kioskipaikan nimi": "Combon jäätelökioski",
+    "Kioskin osoite": "Lentokentäntie 7",
+    "Postino.": "65380",
+    "Kaupunki": "Vaasa"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Hämeenlinnan Tori",
+    "Kioskin osoite": "Hämeenlinnan Tori",
+    "Postino.": "13100",
+    "Kaupunki": "Hämeenlinna"
+  },
+  {
+    "Kioskipaikan nimi": "Hotelli Mesikämmen",
+    "Kioskin osoite": "Karhunkierros 149",
+    "Postino.": "63700",
+    "Kaupunki": "Ähtäri"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Ritikka ",
+    "Kioskin osoite": "Ritikankuja 1",
+    "Postino.": "55100",
+    "Kaupunki": "Imatra"
+  },
+  {
+    "Kioskipaikan nimi": "Hotelli Mesikämmen",
+    "Kioskin osoite": "Karhunkierros 149",
+    "Postino.": "63700",
+    "Kaupunki": "Ähtäri"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Savitaipaleen Helmi",
+    "Kioskin osoite": "Peltoinlahdentie 31",
+    "Postino.": "54800",
+    "Kaupunki": "Savitaipale"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski ABC Forssa",
+    "Kioskin osoite": "Matkailijankatu 2",
+    "Postino.": "30100",
+    "Kaupunki": "Forssa"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Ravintola Laguuni",
+    "Kioskin osoite": "Yyterin Santojentie 1",
+    "Postino.": "28800",
+    "Kaupunki": "Pori"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Laitakari",
+    "Kioskin osoite": "LAITAKARINTIE 345",
+    "Postino.": "29100",
+    "Kaupunki": "Luvia"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Ranta ",
+    "Kioskin osoite": "Lammassaarentie 68",
+    "Postino.": "55420",
+    "Kaupunki": "Imatra"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Aurajoen Itä-ranta",
+    "Kioskin osoite": "Itäinen Rantakatu 57 (parkkialue)",
+    "Postino.": "20810",
+    "Kaupunki": "Turku"
+  },
+  {
+    "Kioskipaikan nimi": "Ranuan Eläintarha Villisikakioski",
+    "Kioskin osoite": "Rovaniementie 29",
+    "Postino.": "97700",
+    "Kaupunki": "Ranua "
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Föri",
+    "Kioskin osoite": "Läntinen Rantakatu 50",
+    "Postino.": "20100",
+    "Kaupunki": "Turku"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski ABC Tiiriö Hämeenlinna",
+    "Kioskin osoite": "Paroistentie 1",
+    "Postino.": "13600",
+    "Kaupunki": "Hämeenlinna"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Klaukkala",
+    "Kioskin osoite": "Kuonomäentie 2",
+    "Postino.": "01800",
+    "Kaupunki": "Klaukkala"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Tervasaari Hamina",
+    "Kioskin osoite": "Tullimakasiininranta 21",
+    "Postino.": "49400",
+    "Kaupunki": "Hamina"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Autotalo",
+    "Kioskin osoite": "Kyminlinnantie 22",
+    "Postino.": "48600",
+    "Kaupunki": "Kotka "
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Grilli-Kahvio Tikander",
+    "Kioskin osoite": "Keskustie 3",
+    "Postino.": "19650",
+    "Kaupunki": "Joutsa"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Pori Kävelykatu",
+    "Kioskin osoite": "Yrjönkatu",
+    "Postino.": "28100",
+    "Kaupunki": "Pori"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Ristiinan Kaukaantori",
+    "Kioskin osoite": "Brahentie 9 (Kaukaantori)",
+    "Postino.": "52300",
+    "Kaupunki": "Ristiina"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kuopion Tori, Anttilan kulma",
+    "Kioskin osoite": "Miettilänranta 3",
+    "Postino.": "70820",
+    "Kaupunki": "Kuopio"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Vänäri",
+    "Kioskin osoite": "Väinölänniemen pääportti",
+    "Postino.": "70420",
+    "Kaupunki": "Kuopio"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski CAFE MOKKA KAJAANI",
+    "Kioskin osoite": "Kauppakatu 18",
+    "Postino.": "87100",
+    "Kaupunki": "Kajaani"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Keilankanta",
+    "Kioskin osoite": "Matkusniemenkatu 2",
+    "Postino.": "70840",
+    "Kaupunki": "Kuopio"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Haukilahden Paviljonki",
+    "Kioskin osoite": "Melstenintie 12",
+    "Postino.": "02170",
+    "Kaupunki": "Espoo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Prisma Kangasala",
+    "Kioskin osoite": "Mäkirinteentie 10",
+    "Postino.": "36220",
+    "Kaupunki": "Kangasala"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kahvila Onnikka",
+    "Kioskin osoite": "Vienankatu 9",
+    "Postino.": "87100",
+    "Kaupunki": "Kajaani"
+  },
+  {
+    "Kioskipaikan nimi": "NALLIKARIN JÄÄTELÖKIOSKI",
+    "Kioskin osoite": "Holstinsalmen- Toppilansaarentie",
+    "Postino.": "90510",
+    "Kaupunki": "Oulu"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Finlandiapuisto",
+    "Kioskin osoite": "Mannerheimintie 13",
+    "Postino.": "00100",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Porvoon Tori",
+    "Kioskin osoite": "Porvoon Tori, Piispankatu ",
+    "Postino.": "06100",
+    "Kaupunki": "Porvoo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Hakaniemi",
+    "Kioskin osoite": "Hakaniementori",
+    "Postino.": "00530",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Havis Amanda",
+    "Kioskin osoite": "Etelä Espa 1",
+    "Postino.": "00130",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "JÄÄTELÖKIOSKI AURINKORANTA",
+    "Kioskin osoite": "AURINKORANTA",
+    "Postino.": "00990",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kamppi",
+    "Kioskin osoite": " SALOMONKATU/RUNEBERGINKADUN KULMA",
+    "Postino.": "00120",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Mikkeli Kirkkopuisto",
+    "Kioskin osoite": "Savilahdenkatu 7",
+    "Postino.": "50100",
+    "Kaupunki": "Mikkeli"
+  },
+  {
+    "Kioskipaikan nimi": "Glasskiosk L'Escale Ab Nagu",
+    "Kioskin osoite": "Nagu Strand 4",
+    "Postino.": "21660",
+    "Kaupunki": "Nauvo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Nallikarin ranta",
+    "Kioskin osoite": "Nallikarin ranta ",
+    "Postino.": "90100",
+    "Kaupunki": "Oulu"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Keskustori Tampere",
+    "Kioskin osoite": "Keskustori 1",
+    "Postino.": "33100",
+    "Kaupunki": "Tampere"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Savonlinnan Kauppatori",
+    "Kioskin osoite": "Kauppatori 1",
+    "Postino.": "57130",
+    "Kaupunki": "Savonlinna"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Galleria",
+    "Kioskin osoite": "KAUPPAKATU 40",
+    "Postino.": "53100",
+    "Kaupunki": "Lappeenranta"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Sorsapuisto",
+    "Kioskin osoite": "AALTOSENKATU 46",
+    "Postino.": "033870",
+    "Kaupunki": "Tampere"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski ABC Lahdesjärvi",
+    "Kioskin osoite": "Automiehenkatu 39",
+    "Postino.": "33840",
+    "Kaupunki": "Lahdesjärvi"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Parainen",
+    "Kioskin osoite": "Rantatie",
+    "Postino.": "21600",
+    "Kaupunki": "Parainen"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Prisma Kangasala",
+    "Kioskin osoite": "Mäkirinteentie 10",
+    "Postino.": "36220",
+    "Kaupunki": "Kangasala"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Linnanmäki",
+    "Kioskin osoite": "Tivolikuja 1",
+    "Postino.": "00510",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Tapiolan keskus",
+    "Kioskin osoite": "Tapiolan raitti (Gardenin kulma)",
+    "Postino.": "02100",
+    "Kaupunki": "Espoo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Verkan Korppoo",
+    "Kioskin osoite": "Kaapeliniementie 2",
+    "Postino.": "21710",
+    "Kaupunki": "Korppoo"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kivihaka Vaasa",
+    "Kioskin osoite": "Kivihaantie 1 (Plantagenin piha)",
+    "Postino.": "65300",
+    "Kaupunki": "Vaasa"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Ben&Jerry Linnanmäki",
+    "Kioskin osoite": "Linnanmäki",
+    "Postino.": "00510",
+    "Kaupunki": "Helsinki"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Leppävirta",
+    "Kioskin osoite": "Kirkkopuisto",
+    "Postino.": "79100",
+    "Kaupunki": "Leppävirta"
+  },
+  {
+    "Kioskipaikan nimi": "Skolparken JAKOBSTAD",
+    "Kioskin osoite": "Skolparken",
+    "Postino.": "68600",
+    "Kaupunki": "Pietarsaari"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Kokkolan Tori",
+    "Kioskin osoite": "Kokkolan kauppatori",
+    "Postino.": "67200",
+    "Kaupunki": "Kokkola "
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Pukaron Paroni",
+    "Kioskin osoite": "Koivistontie 2 A ",
+    "Postino.": "07830",
+    "Kaupunki": "Pukaro"
+  },
+  {
+    "Kioskipaikan nimi": "Kauppatorin Jäätelökioski",
+    "Kioskin osoite": "Kauppatori",
+    "Postino.": "90100",
+    "Kaupunki": "Oulu"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Pori Kirjurinluoto",
+    "Kioskin osoite": "Pelle Hermannin puisto",
+    "Postino.": "28100",
+    "Kaupunki": "Pori"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Pori Hautausmaa",
+    "Kioskin osoite": "Maantiekatu ",
+    "Postino.": "28120",
+    "Kaupunki": "Pori"
+  },
+  {
+    "Kioskipaikan nimi": "Jäätelökioski Suonperä",
+    "Kioskin osoite": "Pohjanlahdentie 737",
+    "Postino.": "68320",
+    "Kaupunki": "Kokkola "
+  }
+]

@@ -1,0 +1,1410 @@
+[
+  {
+    "kioskName": "Jäätelökioski Länsiranta",
+    "addressString": "Länsiranta, 95400 Tornio",
+    "lat": 65.84818969999999,
+    "lng": 24.1355754,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Sibeliuspuisto",
+    "addressString": "Merikannontie, 00260 Helsinki",
+    "lat": 60.1795571,
+    "lng": 24.9129292,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Ellala",
+    "addressString": "Höyrymyllyntie 7-9, 90520 Oulu",
+    "lat": 65.03239930000001,
+    "lng": 25.4385632,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Nallikarin Ranta",
+    "addressString": "Nallikarin Ranta, 90500 Oulu",
+    "lat": 65.0306233,
+    "lng": 25.4113969,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Nokkalan Majakka",
+    "addressString": "Nokkalanniemi 2, 02230 Espoo",
+    "lat": 60.1482488,
+    "lng": 24.7534334,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Veikkola",
+    "addressString": "Koskentori, 02880 Veikkola",
+    "lat": 60.26969739999999,
+    "lng": 24.4424089,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Rantakatu",
+    "addressString": "Rantakatu, 04400 Järvenpää",
+    "lat": 60.46979330000001,
+    "lng": 25.0836764,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Auransilta",
+    "addressString": "Auransilta, 20100 Turku",
+    "lat": 60.4483728,
+    "lng": 22.26997,
+    "facebookUrl": "https://www.facebook.com/auransiltajaatelokioski/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Hakaniemi",
+    "addressString": "Eläintarhantie, Tokoinranta, 00530 Helsinki",
+    "lat": 60.1805002,
+    "lng": 24.9411866,
+    "facebookUrl": "",
+    "instagramUrl": "https://www.instagram.com/tokoinrannantuutti/"
+  },
+  {
+    "kioskName": "Mari Albrecht",
+    "addressString": "Vaasan tori, 65100 Vaasa",
+    "lat": 63.09572170000001,
+    "lng": 21.6157843,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Keskustori 2",
+    "addressString": "Keskustori, 33200 Tampere",
+    "lat": 61.49770309999999,
+    "lng": 23.7599138,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski ABC Lohja",
+    "addressString": "Hossanmäentie 1, 08350 Lohja",
+    "lat": 60.2935366,
+    "lng": 24.0628313,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Härkäkapari",
+    "addressString": "Risto Rytinkatu 2, 32700 Huittinen",
+    "lat": 61.17510269999999,
+    "lng": 22.6814679,
+    "facebookUrl": "https://www.facebook.com/pakarinjadekiska/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Pyynikin näkötorni",
+    "addressString": "Näkötornintie 20, 33230 Tampere",
+    "lat": 61.49359799999999,
+    "lng": 23.7400598,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Keskikatu",
+    "addressString": "Keskikatu, 45100 Kouvola",
+    "lat": 60.8686712,
+    "lng": 26.7038248,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Nummelan Jäätelökioski",
+    "addressString": "Vihdintie 3, 03100 Nummela",
+    "lat": 60.3355122,
+    "lng": 24.3214535,
+    "facebookUrl": "https://www.facebook.com/Nummelan-OPnj%C3%A4%C3%A4tel%C3%B6kioski-982788961805418/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Ankkalampi Forssa",
+    "addressString": "Torikatu, 30100 Forssa",
+    "lat": 60.81599780000001,
+    "lng": 23.6289802,
+    "facebookUrl": "https://www.facebook.com/pingviinikioskiForssa/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kauppakeskus Kaari",
+    "addressString": "Kantelettarentie 1, 00420 Helsinki",
+    "lat": 60.23654029999999,
+    "lng": 24.8918053,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioksi Haminan Keskuspuisto",
+    "addressString": "Keskuspuisto, 49400 Hamina",
+    "lat": 60.5693374,
+    "lng": 27.1878317,
+    "facebookUrl": "https://www.facebook.com/haminanjadekioski/",
+    "instagramUrl": "https://www.instagram.com/haminanjadekioski/"
+  },
+  {
+    "kioskName": "Jäätelökioski Yo-talo",
+    "addressString": "Mannerheimintie 3, 00100 Helsinki",
+    "lat": 60.1690346,
+    "lng": 24.9407535,
+    "facebookUrl": "",
+    "instagramUrl": "https://www.instagram.com/yotalonjaatelokioski/"
+  },
+  {
+    "kioskName": "Jäätelökioski Tivolikuja",
+    "addressString": "Tivolitie, 00510 Helsinki",
+    "lat": 60.1896475,
+    "lng": 24.939164,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski ABC Perniö",
+    "addressString": "Haarlantie 10, 25500 Perniö",
+    "lat": 60.2048133,
+    "lng": 23.1132393,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Utti",
+    "addressString": "Lentoportintie 3, 45410 Utti",
+    "lat": 60.8939596,
+    "lng": 26.9103586,
+    "facebookUrl": "",
+    "instagramUrl": "https://www.instagram.com/uttijaatelokioski/"
+  },
+  {
+    "kioskName": "Jäätelökioski Anna Rantanen",
+    "addressString": "Koskikatu 21, 96200 Rovaniemi",
+    "lat": 66.50288880000001,
+    "lng": 25.7280078,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Sastamala",
+    "addressString": "Onkiniemenkatu 6, 38200 Sastamala",
+    "lat": 61.3407779,
+    "lng": 22.9085496,
+    "facebookUrl": "https://www.facebook.com/VammalantorinJaatelokioski/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Eteläranta",
+    "addressString": "Eteläranta 1, 28100 Pori",
+    "lat": 61.4902353,
+    "lng": 21.7963156,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Salo",
+    "addressString": "Salon tori, 24100 Salo",
+    "lat": 60.38496749999999,
+    "lng": 23.128904,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kupittaanpuisto",
+    "addressString": "Kupittaanpuisto, 20520 Turku",
+    "lat": 60.4458734,
+    "lng": 22.2887093,
+    "facebookUrl": "https://www.facebook.com/KupittaanpuistonJaatelokioski/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Nummelan Autogrilli",
+    "addressString": "Tuusantie 1, 01300 Nummela",
+    "lat": 60.3328062,
+    "lng": 24.3259384,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Meritori",
+    "addressString": "Vänmanninsaari, Meritori, 90100 Oulu",
+    "lat": 65.0130913,
+    "lng": 25.4856768,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Karkkila",
+    "addressString": "Keskuskatu 3, 03600 Karkkila",
+    "lat": 60.5338763,
+    "lng": 24.2111888,
+    "facebookUrl": "https://www.facebook.com/KarkkilanJaatelokioski/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kangasniemi",
+    "addressString": "Keskustie 1, 51200 Kangasniemi",
+    "lat": 61.9885046,
+    "lng": 26.6419149,
+    "facebookUrl": "https://www.facebook.com/kangasniemenjaatelokioski/",
+    "instagramUrl": "https://www.instagram.com/kangasniemenjaatelokioski/"
+  },
+  {
+    "kioskName": "Jäätelökioski Vihti",
+    "addressString": "Vihdin tori, 34000 Vihti",
+    "lat": 60.4165735,
+    "lng": 24.3256379,
+    "facebookUrl": "https://www.facebook.com/Vihdin-Pingviini-J%C3%A4%C3%A4tel%C3%B6kioski-483024935432709/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Iisalmen Tori",
+    "addressString": "Iisalmen Tori, 74100 Iisalmi",
+    "lat": 63.5565745,
+    "lng": 27.189211,
+    "facebookUrl": "https://www.facebook.com/iisalmenjaatelo/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Joensuun Tori 1",
+    "addressString": "Joensuun Tori, 80100 Joensuu",
+    "lat": 62.6005608,
+    "lng": 29.7616888,
+    "facebookUrl": "https://www.facebook.com/kunkkukioskit/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Senaatintori",
+    "addressString": "Senaatintori, 00170 Helsinki",
+    "lat": 60.1694794,
+    "lng": 24.9522867,
+    "facebookUrl": "https://www.facebook.com/senaatintorinjaatelokioski",
+    "instagramUrl": "https://www.instagram.com/jaatelokioskisenaatintori/?hl=fi"
+  },
+  {
+    "kioskName": "Jäätelökioski Jenni Salminen",
+    "addressString": "Mäntyharjun tori, 52700 Mäntyharju",
+    "lat": 61.4169759,
+    "lng": 26.8811277,
+    "facebookUrl": "https://www.facebook.com/jaatelokioskijennisalminen/",
+    "instagramUrl": "https://www.instagram.com/jaatelokioskijennisalminen/"
+  },
+  {
+    "kioskName": "Jäätelökioski Satama Tori",
+    "addressString": "Kuopion Matkustajasatama, 70100 Kuopio",
+    "lat": 62.89305590000001,
+    "lng": 27.6973536,
+    "facebookUrl": "https://www.facebook.com/Kuopion-pingviinij%C3%A4%C3%A4tel%C3%B6kioskit-1726620544298436/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Möljä",
+    "addressString": "Möljä, 95400 Tornio",
+    "lat": 65.8462291,
+    "lng": 24.1527206,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Katariinan puisto",
+    "addressString": "Puistotie 32, pysäköintialue, 48130 Kotka",
+    "lat": 60.4477489,
+    "lng": 26.9364202,
+    "facebookUrl": "https://www.facebook.com/Pingviinij%C3%A4%C3%A4tel%C3%B6kioski-Katariinan-meripuisto-183007968998630/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kaivopuisto",
+    "addressString": "Ehrenstromintie Ursulan vieressä, 00140 Helsinki",
+    "lat": 60.15513050000001,
+    "lng": 24.9609724,
+    "facebookUrl": "https://www.facebook.com/kaivopuistonpingviinikioski",
+    "instagramUrl": "https://www.instagram.com/kaivopuistonjaatelokioski"
+  },
+  {
+    "kioskName": "Jäätelökioski Jallun Kioski",
+    "addressString": "Kuopion Kauppatori paikka 4 Haapaniemenkatu, 70100 Kuopio",
+    "lat": 62.8923109,
+    "lng": 27.6783817,
+    "facebookUrl": "https://www.facebook.com/Kuopion-pingviinij%C3%A4%C3%A4tel%C3%B6kioskit-1726620544298436/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Raatihuoneenpuisto",
+    "addressString": "Raatihuoneenpuisto, 28100 Pori",
+    "lat": 61.48886229999999,
+    "lng": 21.7935111,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Sapokka",
+    "addressString": "Sapokanlahti, 48100 Kotka",
+    "lat": 60.45804749999999,
+    "lng": 26.9437685,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Hyvinkää",
+    "addressString": "Hämeenkatu, 05800 Hyvinkää",
+    "lat": 60.6395155,
+    "lng": 24.8728785,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Ruoholahti",
+    "addressString": "Ruoholahdentori, 00180 Helsinki",
+    "lat": 60.1624776,
+    "lng": 24.9140698,
+    "facebookUrl": "",
+    "instagramUrl": "https://www.instagram.com/jaatelokioski51ruoholahti/"
+  },
+  {
+    "kioskName": "Iffy - Jäätelökioski Länsi1",
+    "addressString": "Viilarinkatu 5, 20320 Turku",
+    "lat": 60.47461819999999,
+    "lng": 22.2245291,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski jäätelöpirtti",
+    "addressString": "Pirtinkaari 28, 70820 Kuopio",
+    "lat": 62.82905239999999,
+    "lng": 27.6673017,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Turku Teatterisilta",
+    "addressString": "Läntinen Rantakatu, 20100 Turku",
+    "lat": 60.44476319999999,
+    "lng": 22.2547377,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kyyjärvi",
+    "addressString": "Vaasantie 2, 43700 Kyyjärvi",
+    "lat": 63.0423071,
+    "lng": 24.5582849,
+    "facebookUrl": "",
+    "instagramUrl": "https://instagram.com/jaatelokioskikyyjarvi"
+  },
+  {
+    "kioskName": "Jäätelökioski Torin Grilli",
+    "addressString": "Ouluntaival 1, 93600 Kuusamo",
+    "lat": 65.9638423,
+    "lng": 29.1887117,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Mänttä",
+    "addressString": "Ratakatu, 35800 Mänttä",
+    "lat": 62.03041469999999,
+    "lng": 24.6188449,
+    "facebookUrl": "https://www.facebook.com/taidekaupunginpingviinikioski/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Tori",
+    "addressString": "Kappelikuja 1, 32700 Huittinen",
+    "lat": 61.1801302,
+    "lng": 22.6962446,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Heureka",
+    "addressString": "Tiedepuisto 1, 01300 Vantaa",
+    "lat": 60.2876212,
+    "lng": 25.0407134,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Vanha Hautausmaa",
+    "addressString": "Kaunisjärvenkatu 3, 26100 Rauma",
+    "lat": 61.12980510000001,
+    "lng": 21.5208442,
+    "facebookUrl": "https://www.facebook.com/bluecamp.vanharauma/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Loimaan tori",
+    "addressString": "Vesikoskenkatu 14, 32200 Loimaa",
+    "lat": 60.8517489,
+    "lng": 23.0581565,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Sataman Loiste",
+    "addressString": "Satamatie 9, 53900 Lappeenranta",
+    "lat": 61.0670651,
+    "lng": 28.1867633,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Bio Vuoksi",
+    "addressString": "Vuoksenniskantie 56, 55800 Imatra",
+    "lat": 61.2225441,
+    "lng": 28.8298575,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Leppävaaran Uimahalli",
+    "addressString": "Veräjäpellonkatu 15, 02650 Espoo",
+    "lat": 60.22617829999999,
+    "lng": 24.8036645,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Padasjoen Satama",
+    "addressString": "Laivarannantie 41, 17500 Padasjoki",
+    "lat": 61.3608591,
+    "lng": 25.2920988,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kruunu",
+    "addressString": "Kuusitie 2, 58500 Punkaharju",
+    "lat": 61.7551868,
+    "lng": 29.3923196,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kauhajoki",
+    "addressString": "Topeeka 25, 61800 Kauhajoki",
+    "lat": 62.42494110000001,
+    "lng": 22.1797582,
+    "facebookUrl": "https://www.facebook.com/pingviinikioskikauhajoki/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Pohjantähti",
+    "addressString": "Haastajantie 1, 99600 Sodankylä",
+    "lat": 67.41404279999999,
+    "lng": 26.5879003,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Keuruu",
+    "addressString": "Keuruuntie 9, 42700 Keuruu",
+    "lat": 62.2581204,
+    "lng": 24.7099355,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Prisman Piha Palokka",
+    "addressString": "Palokanorsi 1, 40270 Palokka",
+    "lat": 62.2883924,
+    "lng": 25.7173701,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kaarinan liikennepuisto",
+    "addressString": "Uimarannantie 33, 20780 Kaarina",
+    "lat": 60.398093,
+    "lng": 22.3766572,
+    "facebookUrl": "https://www.facebook.com/Hovirannanrantapuistonjaatelokioski/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kylpyläsaari",
+    "addressString": "Nivalantie 61, 86600 Haapavesi",
+    "lat": 64.1329618,
+    "lng": 25.3602126,
+    "facebookUrl": "https://www.facebook.com/SaarenPingviini/",
+    "instagramUrl": "https://www.instagram.com/jaatelokioskikylpylasaaressa/"
+  },
+  {
+    "kioskName": "Jäätelökioski Postiaukio",
+    "addressString": "Hallituskatu 31, 90100 Oulu",
+    "lat": 65.0115051,
+    "lng": 25.4814631,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Saarijärvi",
+    "addressString": "Kauppakatu 4, 43100 Saarijärvi",
+    "lat": 62.7055452,
+    "lng": 25.2603544,
+    "facebookUrl": "https://www.facebook.com/Pingviinij%C3%A4%C3%A4tel%C3%B6kioski-Saarij%C3%A4rvi-563917610448796/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Pyhäjärvi",
+    "addressString": "Ollintie 9, 86800 Pyhäsalmi",
+    "lat": 63.6814992,
+    "lng": 25.9757393,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Pingviinikioski Haapajärvi",
+    "addressString": "Ståhlberginkatu 1a, 85800 Haapajärvi",
+    "lat": 63.75155209999999,
+    "lng": 25.316866,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Neste Häijää",
+    "addressString": "Kauppakuja 1, 38420 Häijää",
+    "lat": 61.5011085,
+    "lng": 23.0906044,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Ravintola Göran, jäätelökioski",
+    "addressString": "Linnankatu 72, 20100 Turku",
+    "lat": 60.4368017,
+    "lng": 22.2343123,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski 51",
+    "addressString": "Munkimäentie 29, 02400 Kirkkonummi",
+    "lat": 60.11796810000001,
+    "lng": 24.4455026,
+    "facebookUrl": "",
+    "instagramUrl": "https://www.instagram.com/jaatelokioski51kirkkonummi/"
+  },
+  {
+    "kioskName": "Jäätelökioski Kangasalan tori",
+    "addressString": "Kangasalan tori, 36200 Kangasala",
+    "lat": 61.4625516,
+    "lng": 24.0730647,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Vuorikatu",
+    "addressString": "Vuorikadun laituri, 70100 Kuopio",
+    "lat": 62.8918492,
+    "lng": 27.6824939,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kisapojat",
+    "addressString": "Taulumäen tori, 78200 Varkaus",
+    "lat": 62.31785799999999,
+    "lng": 27.8688464,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kustavi",
+    "addressString": "Pleikeläntie 2, 23360 Kustavi",
+    "lat": 60.54499629999999,
+    "lng": 21.3553431,
+    "facebookUrl": "https://www.facebook.com/kustavinjaatelokioski/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kiuruveden Tori",
+    "addressString": "Kiuruveden Tori, 74700 Kiuruvesi",
+    "lat": 63.65323239999999,
+    "lng": 26.6191754,
+    "facebookUrl": "https://www.facebook.com/iisalmenjaatelo/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Ähtäri",
+    "addressString": "Ähtärin tori, 63700 Ähtäri",
+    "lat": 62.54920720000001,
+    "lng": 24.0706959,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Raatihuoneen Tori",
+    "addressString": "Raatihuoneen Tori, 87100 Kajaani",
+    "lat": 64.22720009999999,
+    "lng": 27.7288671,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Koiton Aukio",
+    "addressString": "Koiton Aukio, 37600 Valkeakoski",
+    "lat": 61.26666819999999,
+    "lng": 24.0299227,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Laivaranta Ruovesi",
+    "addressString": "Laivaranta, 34600 Ruovesi",
+    "lat": 61.9890522,
+    "lng": 24.0758048,
+    "facebookUrl": "https://www.facebook.com/jaatelokioskiruovesi/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Tiimarin Kulma",
+    "addressString": "Tori 1 Tulliportinkatu, 70100 Kuopio",
+    "lat": 62.8923109,
+    "lng": 27.6783817,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Kokkolan Jäätelökioski",
+    "addressString": "Torikatu, Huismanin kulma, 67100 Kokkola",
+    "lat": 63.8385566,
+    "lng": 23.134154,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Aura",
+    "addressString": "Huuskantie 19, 21380 Aura",
+    "lat": 60.6504675,
+    "lng": 22.5879134,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Ylisoutajan Jäätelökioski",
+    "addressString": "Rantakatu Kirkkopuisto, 80100 Joensuu",
+    "lat": 62.6001268,
+    "lng": 29.7654995,
+    "facebookUrl": "https://www.facebook.com/ylisoutajanjaatelokioski/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Tammelantori 2",
+    "addressString": "Tammelantori, 33100 Tampere",
+    "lat": 61.5009017,
+    "lng": 23.7789717,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Tervasaari",
+    "addressString": "Pohjoisranta, 00170 Helsinki",
+    "lat": 60.1726094,
+    "lng": 24.9610247,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski CM Kupittaa",
+    "addressString": "Uudenmaantie 17, 20700 Turku",
+    "lat": 60.4417007,
+    "lng": 22.286268,
+    "facebookUrl": "https://www.facebook.com/J%C3%A4%C3%A4tel%C3%B6kioski-CMKupittaan-piha-1563012890695588/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "ABC Vaajakoski Jäätelökioski",
+    "addressString": "Vaajakoskentie 850, 40800 Vaajakoski",
+    "lat": 62.23025519999999,
+    "lng": 25.9001693,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Humppila",
+    "addressString": "Lasitehtaantie 1, 31640 Humppila",
+    "lat": 60.9420909,
+    "lng": 23.3629049,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Nurmijärven Tori",
+    "addressString": "Punamullantie 3, 01900 Nurmijärvi",
+    "lat": 60.4626802,
+    "lng": 24.8041456,
+    "facebookUrl": "https://www.facebook.com/J%C3%A4%C3%A4tel%C3%B6kioski-Nurmij%C3%A4rven-tori-2374495509504077/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Tapiola",
+    "addressString": "Tuulikinsilta 5, 02100 Espoo",
+    "lat": 60.17605709999999,
+    "lng": 24.8052855,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Lauttis",
+    "addressString": "Lauttasaarentie 28, 00200 Helsinki",
+    "lat": 60.160191,
+    "lng": 24.8816728,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "ABC Viitasaari Jäätelökioski",
+    "addressString": "Kokkosalmentie 7, 44500 Viitasaari",
+    "lat": 63.074192,
+    "lng": 25.8645283,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kalajoki",
+    "addressString": "Nikkarinpolku 2, 85100 Kalajoki",
+    "lat": 64.2453262,
+    "lng": 23.8296459,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Virrat",
+    "addressString": "Sampolantie 7, 34800 Virrat",
+    "lat": 62.24922110000001,
+    "lng": 23.783209,
+    "facebookUrl": "",
+    "instagramUrl": "https://instagram.com/kitusenkievari"
+  },
+  {
+    "kioskName": "Jäätelökioski Karjaa ABC",
+    "addressString": "Lepinpellonkatu 2, 10320 Karjaa",
+    "lat": 60.05489470000001,
+    "lng": 23.6468141,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Suosikki",
+    "addressString": "Asemakatu 22, 44200 Suolahti",
+    "lat": 62.5639516,
+    "lng": 25.8514938,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Alajärvi",
+    "addressString": "Kauppakatu 18, 62900 Alajärvi",
+    "lat": 63.00011499999999,
+    "lng": 23.8151354,
+    "facebookUrl": "https://www.facebook.com/kahvilatoivo",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Limone Bauhause",
+    "addressString": "Rusthollarinkatu 6, 02270 Espoo",
+    "lat": 60.15968890000001,
+    "lng": 24.7112674,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Bulevardi",
+    "addressString": "Yrjönkatu, 00120 Helsinki",
+    "lat": 60.16453199999999,
+    "lng": 24.9436666,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kankaanpää",
+    "addressString": "Keskuskatu 51, 38700 Kankaanpää",
+    "lat": 61.8039465,
+    "lng": 22.395378,
+    "facebookUrl": "https://www.facebook.com/kahvilapostelli.fi/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Merikarvia",
+    "addressString": "Eteläinen Rantatie 63, 29900 Merikarvia",
+    "lat": 61.85719749999999,
+    "lng": 21.5014457,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Parkano",
+    "addressString": "Keskuskatu 1, 39700 Parkano",
+    "lat": 62.0102131,
+    "lng": 23.024156,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Osuuskauppa Suur-Savo",
+    "addressString": "Mäyrätie 1, 19410 Kuortti",
+    "lat": 61.4211413,
+    "lng": 26.4352116,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski K-Market Kippari",
+    "addressString": "Toritie 53, 17800 Kuhmoinen",
+    "lat": 61.56402660000001,
+    "lng": 25.182642,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kaustinen",
+    "addressString": "Kaustintie 4, 69600 Kaustinen",
+    "lat": 63.54797889999999,
+    "lng": 23.6952768,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Sotkamon Tori",
+    "addressString": "Sotkamon Tori, 86600 Sotkamo",
+    "lat": 64.1306547,
+    "lng": 28.3904978,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Myllykukko",
+    "addressString": "Ilvesvuorenkatu 2, 1900 Nurmijärvi",
+    "lat": 60.4546375,
+    "lng": 24.8418657,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Lohjanportti",
+    "addressString": "Seisaketie 1, 08680 Lohja",
+    "lat": 60.2957051,
+    "lng": 24.207302,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Orivesi",
+    "addressString": "Keskustie 29, 35300 Orivesi",
+    "lat": 61.6781089,
+    "lng": 24.3581641,
+    "facebookUrl": "https://www.facebook.com/search/top/?q=j%C3%A4%C3%A4tel%C3%B6kioski%20orivevesi&epa=SEARCH_BOX",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kaunismäki",
+    "addressString": "Asemakatu 2, 04620 Mäntsälä",
+    "lat": 60.6471989,
+    "lng": 25.3053851,
+    "facebookUrl": "https://fi-fi.facebook.com/pirkomi/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Joona",
+    "addressString": "Kalevantie 3, 45370 Valkeala",
+    "lat": 60.9304151,
+    "lng": 26.7991413,
+    "facebookUrl": "",
+    "instagramUrl": "https://www.instagram.com/kioskijoona/"
+  },
+  {
+    "kioskName": "Jäätelökioski Jalasjärvi",
+    "addressString": "Seinäjoentie 3, 61600 Jalasjärvi",
+    "lat": 62.5101609,
+    "lng": 22.7278217,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Tmi Viljami Sainio",
+    "addressString": "Virastotie 4, 23100 Mynämäki",
+    "lat": 60.6792464,
+    "lng": 21.9855293,
+    "facebookUrl": "https://www.facebook.com/pingviinikioskiMynamaki/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Riihimäki",
+    "addressString": "Hämeenkatu-Kalapojankuja, 11300 Riihimäki",
+    "lat": 60.7368879,
+    "lng": 24.7709632,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Ii",
+    "addressString": "Toriaukio, 04400 Järvenpää",
+    "lat": 60.46326599999999,
+    "lng": 25.0752513,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Pyynikin Kesäteatteri",
+    "addressString": "Jalkasaarentie 3, 33270 Tampere",
+    "lat": 61.49356199999999,
+    "lng": 23.7328853,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Hämeenlinnan tori",
+    "addressString": "Raatihuoneenkatu 17-19, 13100 Hämeenlinna",
+    "lat": 60.9959134,
+    "lng": 24.4649039,
+    "facebookUrl": "https://www.facebook.com/pingviinikioskihameenlinna/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Jäätelöherkku",
+    "addressString": "Parikkalantie 12, 59100 Parikkala",
+    "lat": 61.5576903,
+    "lng": 29.5015716,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Pingviinikioski Parkano",
+    "addressString": "Pahkalantie 1 EuroHamsterin piha, 39700 Parkano",
+    "lat": 62.00420269999999,
+    "lng": 23.0112237,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Jädeteria",
+    "addressString": "Keskutie, 52200 Puumala",
+    "lat": 61.52294560000001,
+    "lng": 28.1776036,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski 4 H Lapinlahti",
+    "addressString": "Lapinlahden tori, 73100 Lapinlahti",
+    "lat": 63.3667365,
+    "lng": 27.3921568,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Gondoli",
+    "addressString": "Gondolitie 1, 99130 Levi",
+    "lat": 67.7861607,
+    "lng": 24.8196666,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Grani",
+    "addressString": "Thurmaininaukio Kauniaisten tori, 02700 Espoo",
+    "lat": 60.2117239,
+    "lng": 24.7288783,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Loppi",
+    "addressString": "Kauppakatu 6, 12700 Loppi",
+    "lat": 60.71779339999999,
+    "lng": 24.4417325,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Laukontori 2",
+    "addressString": "Laukontori, 33200 Tampere",
+    "lat": 61.4954216,
+    "lng": 23.761186,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Raahen Ranta",
+    "addressString": "Raahen Ranta, 92100 Raahe",
+    "lat": 64.683302,
+    "lng": 24.4741971,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Keskitori",
+    "addressString": "Kauppatori, 20100 Turku",
+    "lat": 60.45159659999999,
+    "lng": 22.2671343,
+    "facebookUrl": "https://www.facebook.com/TuruntorinJaatelokioski/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Tuulos",
+    "addressString": "Tuulosentie 1, 14810 Tuulos",
+    "lat": 61.105189,
+    "lng": 24.8655675,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Green Cafe",
+    "addressString": "Urheiluopistontie 373, 19120 Vierumäki",
+    "lat": 61.11101170000001,
+    "lng": 26.0114166,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Joensuun Tori 2",
+    "addressString": "Joensuun Tori, 80100 Joensuu",
+    "lat": 62.6005608,
+    "lng": 29.7616888,
+    "facebookUrl": "https://www.facebook.com/kunkkukioskit/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Lapua",
+    "addressString": "Kauppakatu 10, 62100 Lapua",
+    "lat": 62.9685432,
+    "lng": 23.0110737,
+    "facebookUrl": "https://www.facebook.com/Pingviinij%C3%A4%C3%A4tel%C3%B6kioski-Kauppakadulla-251094302108425/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Kioski Munkkiniemen Uimaranta",
+    "addressString": "Munkkiniemenranta, 00300 Helsinki",
+    "lat": 60.1979094,
+    "lng": 24.8666016,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kirkonmaa",
+    "addressString": "Sapokka Kotka, 48100 Kotka",
+    "lat": 60.4605841,
+    "lng": 26.9499536,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Tallisaari",
+    "addressString": "Tallisaari, 57200 Savonlinna",
+    "lat": 61.86420139999999,
+    "lng": 28.8978286,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Lempäälä",
+    "addressString": "Kirkkopolku, 37500 Lempäälä",
+    "lat": 61.31355130000001,
+    "lng": 23.7506908,
+    "facebookUrl": "https://www.facebook.com/lempaalanJaatelokioski/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Prisma Seppä",
+    "addressString": "Ahjokatu 7, 40320 Jyväskylä",
+    "lat": 62.25764100000001,
+    "lng": 25.7764106,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Kuhan Kioski",
+    "addressString": "keskustie 30, 41520 Hankasalmi",
+    "lat": 62.38979009999999,
+    "lng": 26.4368677,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Mestariherkun Jäätelökioski tly 714",
+    "addressString": "Kauppakatu 24, 40100 Jyväskylä",
+    "lat": 62.2427271,
+    "lng": 25.7480046,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Lahden Tori",
+    "addressString": "Marolankatu 3, 15100 Lahti",
+    "lat": 60.9834413,
+    "lng": 25.6554667,
+    "facebookUrl": "",
+    "instagramUrl": "https://www.instagram.com/lahdenpingviinikioski/"
+  },
+  {
+    "kioskName": "Koitelin Tunnelmatuvan Jätskikista",
+    "addressString": "Koitelinkoskentie 456, 90900 Kiiminki",
+    "lat": 65.0954722,
+    "lng": 25.8189437,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Pingviini Jäätelökioski Kauppatori",
+    "addressString": "Eteläranta, 01700 Helsinki",
+    "lat": 60.1658163,
+    "lng": 24.9525547,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Länsituuli",
+    "addressString": "Haahkalantie 22, 50500 Mikkeli",
+    "lat": 61.6433315,
+    "lng": 27.2542021,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Grilli-Kahvio Pikkulämmin",
+    "addressString": "Salontie 20, 21480 Marttila",
+    "lat": 60.5864303,
+    "lng": 22.8451721,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Parainen",
+    "addressString": "Vapparintie 3, 21600 Parainen",
+    "lat": 60.30858259999999,
+    "lng": 22.3016013,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Tervakosken Puuhamaa",
+    "addressString": "Vähikkäläntie 11, 12400 Tervakoski",
+    "lat": 60.8068404,
+    "lng": 24.6122532,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski ABC Pitkäjärvi",
+    "addressString": "Hietakatu 7, 50130 Mikkeli",
+    "lat": 61.67618400000001,
+    "lng": 27.2417425,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Tervakosken Puuhamaa",
+    "addressString": "Vähikkäläntie 11, 12400 Tervakoski",
+    "lat": 60.8068404,
+    "lng": 24.6122532,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Teboil Pirkkala",
+    "addressString": "Kurikantie 2, 33960 Pirkkala",
+    "lat": 61.4667275,
+    "lng": 23.6556415,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Hautaus-, Kukka- ja Pitopalvelu",
+    "addressString": "Vanha Pyhäjärventie 3, 86800 Pyhäsalmi",
+    "lat": 63.68167249999999,
+    "lng": 25.9739379,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Karvian jäätelökioski",
+    "addressString": "Kylä-Karviantie 27, 39930 Karvia",
+    "lat": 62.1400951,
+    "lng": 22.5630175,
+    "facebookUrl": "https://www.instagram.com/karvianjaatelokioski/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "FreshStop Uimastadion",
+    "addressString": "Hammarskjöldintie 5, 00250 Helsinki",
+    "lat": 60.18879370000001,
+    "lng": 24.9300324,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Malmi",
+    "addressString": "Malmin Kauppatie 18, 00700 Helsinki",
+    "lat": 60.2519325,
+    "lng": 25.0106193,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Luukki",
+    "addressString": "Luukintie 33, 02970 Espoo",
+    "lat": 60.318237,
+    "lng": 24.688885,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Prisman Piha",
+    "addressString": "Nojanmaantie 15, 57210 Savonlinna",
+    "lat": 61.87617909999999,
+    "lng": 28.9485707,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Evijärvi",
+    "addressString": "Kauppatie 3, 62500 Evijärvi",
+    "lat": 63.3670357,
+    "lng": 23.4756274,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Pitkälahti",
+    "addressString": "Viitostie 1799, 70800 Kuopio",
+    "lat": 62.8451254,
+    "lng": 27.4983291,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Visulahti",
+    "addressString": "Visulahdentie 1, 50180 Mikkeli",
+    "lat": 61.69989700000001,
+    "lng": 27.3434041,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski ABC Juva",
+    "addressString": "Tulostie 1, 51800 Juva",
+    "lat": 61.8973801,
+    "lng": 27.8055779,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Nokkakivi",
+    "addressString": "Ruuhimäentie 3, 41400 Lievestuore",
+    "lat": 62.24616229999999,
+    "lng": 26.1344385,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Sulkava",
+    "addressString": "Alanteentie 38, 58700 Sulkava",
+    "lat": 61.78755279999999,
+    "lng": 28.3701927,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Lohjan tori",
+    "addressString": "Sepänkatu, 8150 Lohja",
+    "lat": 60.2488097,
+    "lng": 24.0656566,
+    "facebookUrl": "https://www.facebook.com/lohjanpingviinijaatelokioski/",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Söderby-Boden",
+    "addressString": "Sunintie 2, 07370 Pellinki",
+    "lat": 60.2448748,
+    "lng": 25.9030857,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Hyrylä",
+    "addressString": "Hyryläntie 13, 4300 Tuusula",
+    "lat": 60.40171040000001,
+    "lng": 25.0244273,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Espoon Serena",
+    "addressString": "Tornimäentie 10, 02970 Espoo",
+    "lat": 60.32571129999999,
+    "lng": 24.740525,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Espoon Serena",
+    "addressString": "Tornimäentie 10, 02970 Espoo",
+    "lat": 60.32571129999999,
+    "lng": 24.740525,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Klaukkalan Tori",
+    "addressString": "Klaukkalan tori. Torikuja 1, 01800 Klaukkala",
+    "lat": 60.38047019999999,
+    "lng": 24.7535171,
+    "facebookUrl": "",
+    "instagramUrl": "https://www.instagram.com/klaukkalanpingviinijatskikiska/"
+  },
+  {
+    "kioskName": "Jäätelökioski Hiukkavaara",
+    "addressString": "Hiukkavaara Monitoimitalon aukio, 90650 Oulu",
+    "lat": 65.0107644,
+    "lng": 25.5952974,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Päivi Hopeasaari",
+    "addressString": "Tori, 19700 Sysmä",
+    "lat": 61.501562,
+    "lng": 25.6839011,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Ipe`s",
+    "addressString": "Sisäsatama, 94100 Kemi",
+    "lat": 65.73103499999999,
+    "lng": 24.5524459,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioksi Savilanpuisto",
+    "addressString": "Savilan puisto, 26100 Rauma",
+    "lat": 61.1275449,
+    "lng": 21.508535,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Haukiputaan Jäätelökioski",
+    "addressString": "Haukiputaan Tori, Kirkkotie 1, 90830 Haukipudas",
+    "lat": 65.1771797,
+    "lng": 25.3510364,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  },
+  {
+    "kioskName": "Jäätelökioski Tahko",
+    "addressString": "Kaskelantie 10, 19120 Vierumäki",
+    "lat": 61.1140684,
+    "lng": 26.0079393,
+    "facebookUrl": "",
+    "instagramUrl": ""
+  }
+]

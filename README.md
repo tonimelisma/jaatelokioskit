@@ -1,9 +1,14 @@
 # Jäätelökioskit
 
 Suomen jäätelökioskit kartalla taskussasi!
+(Niitä ei Google Mapsista löydy!)
 Toimii sekä iPhonella että Androidilla.
 
-Datan laatu on melko heikko ja appin jatkokehitys on siksi jäissä. Pingviini (Nestle) ei ylläpidä netissä olevaa listaa jäätelökioskeista ajan tasalla ja Ingman ei ole julkaissut sellaista eikä vastaa yhteydenottoihin.
+Datan laatu vaihtelee. Pingviini (Nestle) ei ylläpidä netissä olevaa listaa jäätelökioskeista.
+Pappagallolta en ole saanut aikaiseksi vielä pyytää listaa, eivätkä he sellaista netissä pidä.
+
+Toni Melisma
+toni.melisma@iki.fi
 
 Sininen #281E78
 Luonnonvalkoinen #DCD59A
